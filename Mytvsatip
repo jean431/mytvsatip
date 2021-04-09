@@ -1136,5 +1136,10 @@ http://188.165.227.112/portail/animation/Madagascar%201%20et%202/Madagascar%202%
 http://188.165.227.112/portail/animation/Madagascar%201%20et%202/Les%20Pingouins%20de%20Madagascar%20-%20Mission%20No%c3%abl.avi
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="▼▲▼full metal▼▲▼" tvg-logo="" group-title="series",▼▲▼full metal▼▲▼ 
+http://188.165.227.112
+ #EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist Brotherhood" tvg-logo="https://art-s.nflximg.net/22529/7dfb3dcc2a9463ccb85b199152f3bdb30b922529.jpg" group-title="Series",Fullmetal Alchemist Brotherhood
+http://188.165.227.112/portail/series/Full%20Metal%20Alchemist%20-%20Brotherhood/Fullmetal%20Alchemist%20Brotherhood%20S01E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Games of thrones Saison 1" tvg-logo="https://i.pinimg.com/originals/69/00/26/690026226e7e7f3ac52a04d2f8c15ac0.jpg" group-title="Series",Games of thrones Saison 1
+http://188.165.227.112/portail/series/Games%20of%20thrones%20-%20Saison%201/S01E01%20-%20L'hiver%20vient.avi
 
