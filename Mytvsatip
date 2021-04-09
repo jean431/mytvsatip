@@ -1069,13 +1069,13 @@ http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/Rambo%203/Rambo%203%
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 4" tvg-logo="https://i.pinimg.com/originals/1d/5f/08/1d5f08c5badabaddc6402dcbdceac700.jpg" group-title="FILM FR",Rambo 4
 http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/John%20Rambo/Rambo%202008.m4v
 
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILM FR",X-MEN
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="DC Universe",X-MEN
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-men%20(2000)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN 2" tvg-logo="https://m.media-amazon.com/images/I/718OEr2o3EL._AC_SL1000_.jpg" group-title="FILM FR",X-MEN 2
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN 2" tvg-logo="https://m.media-amazon.com/images/I/718OEr2o3EL._AC_SL1000_.jpg" group-title="DC Universe",X-MEN 2
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-men%202%20(2003)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN Origins Wolverine" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZSAR-T2LL._AC_SL1500_.jpg" group-title="FILM FR",X-MEN Origins Wolverine
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN Origins Wolverine" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZSAR-T2LL._AC_SL1500_.jpg" group-title="DC Universe",X-MEN Origins Wolverine
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-Men%20Origins%20Wolverine%20(2009)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN3 L'affrontement final" tvg-logo="https://i.pinimg.com/originals/28/c1/cd/28c1cd4b2c81b4a60ab2309a8e1c5938.jpg" group-title="FILM FR",X-MEN 3 L'affrontement final
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN3 L'affrontement final" tvg-logo="https://i.pinimg.com/originals/28/c1/cd/28c1cd4b2c81b4a60ab2309a8e1c5938.jpg" group-title="DC Universe",X-MEN 3 L'affrontement final
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-Men%20l%20affrontement%20final%20(2006)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Pirates des caraibes 5 La vengence de Salazar" tvg-logo="https://i.pinimg.com/originals/b3/17/f0/b317f08a640ea74c5733f262a576cc26.jpg" group-title="FILM FR",Pirates des caraibes 5 La vengence de Salazar
@@ -1088,10 +1088,6 @@ http://37.187.21.37:8080/Exodus%20Gods%20and%20Kings%20%282014%29%20MULTi-VF2%20
 http://37.187.21.37:8080/%5B%20OxTorrent.com%20%5D%20365.Dni.2020.FRENCH.720p.WEB.H264-EXTREME.mkv
 
 
-#EXTINF:-11 tvg-id="" tvg-name="Fullmetal Alchemist Brotherhood" tvg-logo="https://art-s.nflximg.net/22529/7dfb3dcc2a9463ccb85b199152f3bdb30b922529.jpg" group-title="Series",Fullmetal Alchemist Brotherhood
-http://188.165.227.112/portail/series/Full%20Metal%20Alchemist%20-%20Brotherhood/Fullmetal%20Alchemist%20Brotherhood%20S01E01.mkv
-#EXTINF:-12 tvg-id="" tvg-name="Fullmetal Alchemist Brotherhood" tvg-logo="https://art-s.nflximg.net/22529/7dfb3dcc2a9463ccb85b199152f3bdb30b922529.jpg" group-title="Series",Fullmetal Alchemist Brotherhood
-http://188.165.227.112/portail/series/Full%20Metal%20Alchemist%20-%20Brotherhood/Fullmetal%20Alchemist%20Brotherhood%20S01E02.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="https://image.winudf.com/v2/image/cnRiLmFjdGl2aXRpZXNfc2NyZWVuc2hvdHNfMF81Y2M2NWMxNg/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="FRANCE",RTB
 https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8
