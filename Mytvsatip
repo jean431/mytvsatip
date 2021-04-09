@@ -15,7 +15,6 @@ http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 https://mmsiptv.com/live/tf1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="CanalSAT",TMC
@@ -32,17 +31,14 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
 https://mmsiptv.com/live/ortm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
@@ -79,7 +75,6 @@ http://stream.tvtap.live:8081/live/fr-planeteplus-ci.stream/playlist.m3u8?wmsAut
 http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MTA6MTUgUE0maGFzaF92YWx1ZT1FVGJtQ1JTVUo1Yk5HMGJRSUpOdHVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="CanalSAT",Ushuaïa
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="SPORT",Canal+ Sport
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU2OjI1IEFNJmhhc2hfdmFsdWU9eEh6d3B1aDUxS21uR0grZWpERXcrUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
@@ -108,7 +103,6 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA0OjQzIFBNJmhhc2hfdmFsdWU9RTNSaFdzelNFQnE2NlZQQTZMMDJJQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
 http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA1OjA3IFBNJmhhc2hfdmFsdWU9elVtMURTY2hENlhHSExxMVZDcXF2dz09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Infomation",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Infomation",France 24
@@ -127,7 +121,6 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/lcplive-22828/hls/index.m3u8
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="CNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1200px-Canal_News_logo.svg.png" group-title="Infomation",CNEWS
 http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjAzIEFNJmhhc2hfdmFsdWU9Uk9Mckw3ZFJRNDNBSStGTUJmdjhWdz09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Religion",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="Religion",EMCI TV
@@ -188,10 +181,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f8eb7e3d2ed18000746d09a"  tvg-name="TEEN SERIES" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png"group-title="Enfant" ,TEEN SERIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="MUSIC",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TeleHaiti" tvg-logo="http://www.haititelevision.com/wp-content/uploads/2013/04/TeleHaiti-300x217.jpg" group-title="FRANCE",TeleHaiti
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Passion Fiction" tvg-logo="https://i.imgur.com/lS8tTMV.png" group-title="FRANCE",Passion Fiction
@@ -204,7 +195,6 @@ https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spar
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Notele" tvg-logo="https://upload.wikimedia.org/wikipedia/pcd/d/d6/Notele.jpg" group-title="FRANCE",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="Enfant",Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="FRANCE",Sofy TV
@@ -217,7 +207,6 @@ https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="FRANCE",People are Awesome
 https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Enfant",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atelier des chefs" tvg-logo="https://i.imgur.com/laArg26.png" group-title="FRANCE",Atelier des chefs
@@ -234,7 +223,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb952
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad922b10b000753bc37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f8ecc1b37867f00071469e9" tvg-name="Tortues Ninja TV" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"group-title="Enfant" ,Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="30a-tv.com" tvg-name="30A Music (US)" tvg-logo="https://i.imgur.com/gNWg9tl.png"group-title="MUSIC",30A Music (US)
 http://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NrjHits" tvg-logo="https://w7.pngwing.com/pngs/77/795/png-transparent-nrj-hits-internet-radio-television-music-hits-television-text-logo.png" group-title="MUSIC",NrjHits
@@ -659,7 +647,6 @@ http://stream.youp.lol/s/Storm%20Boy.mp4
 http://stream.youp.lol/s/Super%20Mario%20Bros.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sweet Country" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhkMzY5NzYtYWQ4MC00ZjA0LWJkN2EtYjExN2I0NjdjODVjXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg" group-title="FILM FR",Sweet Country
 http://stream.youp.lol/s/szJdZCSiEIYybmPymoP2UTEvOUC.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Damsel" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxNjY2NjY2OV5BMl5BanBnXkFtZTgwMzM2NzY1NTM@._V1_.jpg" group-title="FILM FR",Damsel
 http://stream.youp.lol/s/s4DQ1DA9xZrV00JZFdI7nkUCoNR.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vampire vous avez dit vampire" tvg-logo="https://img6.cdn.cinoche.com/images/828035508dbc0dd4774fd901b476644c.jpg" group-title="FILM FR",Vampire vous avez dit vampire
@@ -694,7 +681,6 @@ http://stream.youp.lol/f/F8E379F38EBAEEDDFF57DE3B63D51.mp4
 http://stream.youp.lol/d/DC6BFC2A9CF1216E738CC9D4A916E.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Comédie",Sonic
 http://stream.youp.lol/q/qi6qwClvTfZJiI5GhsKbtkqg28W.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Captain America The winter soldier" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FXNj0ER5L._AC_SL1500_.jpg" group-title="Marvel",Captain America The winter soldier
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Captain.AMERICA.LE.SOLDAT.DE.L'HIVER.2014.720P.TRUEFRENCH.HDLIGHT-ZONE-TELECHARGEMENT.WS.MKV
 #EXTINF:-1 tvg-id="" tvg-name="Abattoir" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MDUyMjI2N15BMl5BanBnXkFtZTgwMzA5Nzc1MDI@._V1_.jpg" group-title="Horreur FR",Abattoir
@@ -769,10 +755,8 @@ http://188.165.227.112/portail/films/Matrix%20Trilogie/MATRIX%20RELOADED.avi
 http://188.165.227.112/portail/films/Matrix%20Trilogie/MATRIX%20REVOLUTIONS.avi
 #EXTINF:-1 tvg-id="" tvg-name="Pacific Rim" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Qsnm2gUkL._AC_.jpg" group-title="FILM FR",Pacific Rim
 http://188.165.227.112/portail/films/Pacific.Rim.mHD.MULTI.VFF.AC3.BluRay.1080.x265.HEVC-LOULOU.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="The Amazing Spiderman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61TUX3ObSLL._AC_.jpg" group-title="FILM FR",The Amazing Spiderman
 http://188.165.227.112/portail/films/The.Amazing.Spiderman.2012.TRUEFRENCH.DVDRip.XviD-Parker.avi
-
 #EXTINF:-1 tvg-id="" tvg-name="Kuzco, l'empereur" tvg-logo="https://i.pinimg.com/originals/3a/0d/5c/3a0d5cbde22758f3a1a1c1bfe39c1982.jpg" group-title="Anime FR",Kuzco, l'empereur
 http://188.165.227.112/portail/films/Kuzco,%20l'empereur%20m%c3%a9galo%20(2000)%20%5bMULTi%5d%20%5b1080p%5d%20BluRay%20x264-anod.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The mask" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zKzNdNcSL._AC_.jpg" group-title="Comédie",The mask
@@ -1044,7 +1028,6 @@ http://w.sylviethiriez.com/Downloads/films/Harry%20Potter%20L%20Integrale/Harry%
 http://w.sylviethiriez.com/Downloads/films/Harry%20Potter%20L%20Integrale/Harry%20Potter%20Et%20Les%20Reliques%20De%20la%20mort%201ere%20Partie%20(2010).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter Les Reliques De la mort 2eme Partie" tvg-logo="https://cine-images.com/wp-content/uploads/2018/12/harry-potter-et-les-reliques-de-la-mort-40x60ok.jpg" group-title="FILM FR",Harry Potter Et Les Reliques De la mort 2eme Partie
 http://w.sylviethiriez.com/Downloads/films/Harry%20Potter%20L%20Integrale/Harry%20Potter%20Et%20Les%20Reliques%20De%20la%20Mort%202eme%20Partie%20(2011).mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Saw Chapitre Final" tvg-logo="https://i.pinimg.com/originals/e1/c2/ab/e1c2abf580b41ff7b6a0f855c7ca666a.jpg" group-title="Horreur FR",Saw Chapitre Final
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Saw.Heptalogy.2004-2010.MULTI.1080p.BluRay.x264.AC3-LCDS/Saw.3D.The.Final.Chapter.2010.UNRATED.MULTI.1080p.BluRay.x264.AC3-LCDS.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saw" tvg-logo="https://i.pinimg.com/originals/96/34/5c/96345c7df60b236f7ce27947318ec585.jpg" group-title="Horreur FR",Saw 
@@ -1059,7 +1042,6 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/Saw.Heptalogy.2004-2010.MULTI.108
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Saw.Heptalogy.2004-2010.MULTI.1080p.BluRay.x264.AC3-LCDS/Saw.V.2008.UNRATED.MULTI.1080p.BluRay.x264.AC3-LCDS.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saw 6" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91XLsBloYHL._AC_SL1500_.jpg" group-title="Horreur FR",Saw 6
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Saw.Heptalogy.2004-2010.MULTI.1080p.BluRay.x264.AC3-LCDS/Saw.VI.2009.UNRATED.Director's.Cut.MULTI.1080p.BluRay.x264.AC3-LCDS.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Rambo First Blood" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81HlRJ0CRdL._AC_SL1500_.jpg" group-title="FILM FR",Rambo 
 http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/Rambo%20First%20Blood.m4v
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51dXuura8qL._SY445_.jpg" group-title="FILM FR",Rambo 2
@@ -1068,7 +1050,6 @@ http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/./Rambo:%20First%20B
 http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/Rambo%203/Rambo%203%20(HD).m4v
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 4" tvg-logo="https://i.pinimg.com/originals/1d/5f/08/1d5f08c5badabaddc6402dcbdceac700.jpg" group-title="FILM FR",Rambo 4
 http://w.sylviethiriez.com/Downloads/films/Rambo%20integral/John%20Rambo/Rambo%202008.m4v
-
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="DC Universe",X-MEN
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-men%20(2000)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN 2" tvg-logo="https://m.media-amazon.com/images/I/718OEr2o3EL._AC_SL1000_.jpg" group-title="DC Universe",X-MEN 2
@@ -1077,7 +1058,6 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULT
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-Men%20Origins%20Wolverine%20(2009)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN3 L'affrontement final" tvg-logo="https://i.pinimg.com/originals/28/c1/cd/28c1cd4b2c81b4a60ab2309a8e1c5938.jpg" group-title="DC Universe",X-MEN 3 L'affrontement final
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/X-men%20Saga%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD/X-Men%20l%20affrontement%20final%20(2006)%20%5b1080p%5d%20MULTi%20BluRay%20x264-PopHD.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="Pirates des caraibes 5 La vengence de Salazar" tvg-logo="https://i.pinimg.com/originals/b3/17/f0/b317f08a640ea74c5733f262a576cc26.jpg" group-title="FILM FR",Pirates des caraibes 5 La vengence de Salazar
 http://37.187.21.37:8080/Pirates%20Of%20The%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%282017%29%20VFF-ENG%20AC3-DTS%20BluRay%201080p%20x264.GHT.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Two Night Stand" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjJhOGY0ODktZDVjZS00YTViLTkwYjctY2YyMmNjODc3OTMwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="FILM FR",Two Night Stand
@@ -1086,15 +1066,10 @@ http://37.187.21.37:8080/Two.Night.Stand.%28Aventure.d%27un.soir%29.2014.VFF.108
 http://37.187.21.37:8080/Exodus%20Gods%20and%20Kings%20%282014%29%20MULTi-VF2%20%5B1080p%5D%20BluRay%20x264-PopHD.mkv
 #EXTINF:-1 tvg-id="" tvg-name="365 Jours" tvg-logo="https://occ-0-2705-2706.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABUboxFv3vWSPIOvGXm7DXUZKDSjTQMPOwlAvacSdioqkj3AyCAUzF0JTsPdINoYvPCsCihqCZkaKBnZzYaTIziIqvGo0.jpg" group-title="FILM FR",365 Jours
 http://37.187.21.37:8080/%5B%20OxTorrent.com%20%5D%20365.Dni.2020.FRENCH.720p.WEB.H264-EXTREME.mkv
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="https://image.winudf.com/v2/image/cnRiLmFjdGl2aXRpZXNfc2NyZWVuc2hvdHNfMF81Y2M2NWMxNg/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="FRANCE",RTB
 https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Hood Of Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjUyNjE3MF5BMl5BanBnXkFtZTcwMzYyNTQ0MQ@@._V1_.jpg" group-title="Horreur FR",Hood Of Horror
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Hood%20of%20horror/Hood.Of.Horror.2006.avi
-
 #EXTINF:-1 tvg-id="" tvg-name="Halo The Fall of Reach" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/719k4ln1piL.jpg" group-title="Anime FR",Halo The Fall of Reach
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Halo.The.Fall.of.Reach.2015.FRENCH.720p.BluRay.x264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Justice League.Dark" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71vVKpg0f4L._AC_SL1127_.jpg" group-title="DC Universe",Justice League Dark
