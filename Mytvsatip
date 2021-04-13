@@ -26,7 +26,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
 https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
+http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1135?token=SEFZVRVQFAwbAwFVBVtTAVMBWQMBAVABUFsFVQgPAAIHVQdWUV0OAwxAHBJDTBcGAw4+D10VXAYFUFFOGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVVMLDE5DQwpVFlwaBAILURIcEl0dFwcRDwdVaAJSQgoHBxoDDBRfDx0WCVZpUlwPUV5UGl9BU0FNRFBEFhUODREOVBVAA1oXQ1USXRQMG1MDBQAaSUEBDBQITUUfFQ5BKTcaFUAESxdUWhVRWVgbWBJEQxpJQQsQPhRcRBJFUQIJB0obWEMDQR0WC1lOaVoNXl5VWxEKDQ0SRAMVVAcEU0ZOGlQND1oXXkY5SF9SG1gSAgMNU0Ef
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
