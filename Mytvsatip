@@ -28,9 +28,11 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
 https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1135?token=SEFZVRVQFAwbAwFVBVtTAVMBWQMBAVABUFsFVQgPAAIHVQdWUV0OAwxAHBJDTBcGAw4+D10VXAYFUFFOGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVVMLDE5DQwpVFlwaBAILURIcEl0dFwcRDwdVaAJSQgoHBxoDDBRfDx0WCVZpUlwPUV5UGl9BU0FNRFBEFhUODREOVBVAA1oXQ1USXRQMG1MDBQAaSUEBDBQITUUfFQ5BKTcaFUAESxdUWhVRWVgbWBJEQxpJQQsQPhRcRBJFUQIJB0obWEMDQR0WC1lOaVoNXl5VWxEKDQ0SRAMVVAcEU0ZOGlQND1oXXkY5SF9SG1gSAgMNU0Ef
+http://143.198.237.90:25461/UwFpptKZdV/EZMBeg3RCg/1135?token=SEFZVRVQFAwbUwABCA9dBVNQUlcBAwUBBFVRAwABWwADBwZRUl4ABQxAHBJDTBcGAw4+D10VXAYFUFFOGkwRBEE8WFBEAhQFCloEEhwaEQoPBkNcCAFXDgRQVloOAE5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFQVgkHRBsWDgsMUU0NE2wTWFBEAlhDVQ5N
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Piwi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Piwi
+http://143.198.237.90:25461/UwFpptKZdV/EZMBeg3RCg/1170?token=SEFZVRVQFAwbWgdSVQ8DVgMABF8BAV4PBwYGU1kKBFMGVFRXBA0BA1pAHBJDTBcGAw4+D10VXAYFVFROGkwRBEE8WFBEAhQFCloEEhwaEQoPBkNcCAFXDgRQVlYOAE5DQwpVFlwaBAYPVgMSHBoAGxYGEwhYWzlTURUNAV0bWA9GD10YRFdYaV0HXVFeXEdZQFJDShteFUcWWQoXVFVOQ1EKRUYHTFMUAwxFXFwURwANFg8SS05EDRYuMUAUGwcZRwZfRw9XWBQDQERDEhRHChE8EwNKQxRSVQ4BEBoDQFERTxNZB0BpVVYMXlVTTAwMDBBDXBsGVgcEQUhAVVYMCEcMQ2sWUVIUA0ACAAUBXUEf
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
