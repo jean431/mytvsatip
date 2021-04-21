@@ -15,6 +15,8 @@ http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2Vydm
 https://mmsiptv.com/live/tf1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
+http://143.198.237.90:25461/UwFpptKZdV/EZMBeg3RCg/1125?token=SEFZVRVQFAwbAVEBCQ1QW1FTWFAAVVVUVwZTVAENVlNWVABWBwlQUA9AHBJDTBcGAw4+D10VXAYFUVFOGkwRBEE8WFBEAhQFCloEEhwaEQoPBkNcCAFXDgRQVVAKAU5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFQVgkHRBsWDgsMUU0NE2wTWFBEAlhDVQ5N
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="CanalSAT",TMC
