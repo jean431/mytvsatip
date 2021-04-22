@@ -37,8 +37,8 @@ http://143.198.237.90:25461/UwFpptKZdV/EZMBeg3RCg/1170?token=SEFZVRVQFAwbWgdSVQ8
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Disney_Junior_logo.png" group-title="Enfant",Disney Junior
-http://143.198.237.90:25461/ UwFpptKZdV/EZMBeg3RCg/1169?token=SEFZVRVQFAwbBlUDUw1cWgZTV1FcVlQAUgZQVAwMV1YDBghRAlxVUg1AHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloEEhwaEQoPBkNcCAFXDgRQUFYBAU5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFQVgkHRBsWDgsMUU0NE2wTWFBEAlhDVQ5N 
+#EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
+http://143.198.237.90:25461/UwFpptKZdV/EZMBeg3RCg/1171?token=SEFZVRVQFAwbVQcIUgkEVARUV1EIBQcPDFMGUQ0PAAJWWgcCAwgBAltAHBJDTBcGAw4+D10VXAYFVFVOGkwRBEE8WFBEAhQFCloEEhwaEQoPBkNcCAFXDgRVUFEBCk5DQwpVFlwaBwIMWwgSHBoAGxYGEwhYWzlTURUNAV0bWA9GD10YRFdYaV0HXVFeXEdZQFJDShteFUcWWQoXVFVOQ1EKRUYHTFMUA0ABBQcNR09AAA4TV0MUThZZRi9tG05DVhtFUQhLX1lXQAoSREtHT0AKEjlLUhVDRgYFD11LQFsRUxMYRFVXTmYBX15eXQYXCwwPFRsNRAMEU0ZOGlQND1oXXkY5SF9SG1gSAQQNV1ZAHg==
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
