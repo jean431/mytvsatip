@@ -35,7 +35,7 @@ http://rv.therevenge.co:80/8366537097/7715962045/78426
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
 http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwFcW1JQAFEAVFYDUAJQAwFdBFcEUVUFAwwDUglAHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlABD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
-EXTINF:-1 tvg-id="" tvg-name="Toonamie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/1280px-Toonami_2014_logo_vector.svg.png" group-title="Enfant",Toonamie
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Toonami_Logo_2021.png/250px-Toonami_Logo_2021.png" group-title="Enfant",Toonami
 http://rv.therevenge.co:80/8366537097/7715962045/78506
 #EXTINF:-1 tvg-id="" tvg-name="Piwi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Piwi
 http://rv.therevenge.co:80/8366537097/7715962045/78498
@@ -82,7 +82,7 @@ http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CanalSAT",DiscoveryScience
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Novelas" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",Novelas
+#EXTINF:-1 tvg-id="" tvg-name="Novelas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas
 http://rv.therevenge.co:80/8366537097/7715962045/78474
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
