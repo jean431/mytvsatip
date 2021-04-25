@@ -16,7 +16,7 @@ https://mmsiptv.com/live/tf1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1125?token=SEFZVRVQFAwbUQdSCQFSBwZQAwBaDldWAgdVVFkBUFEKUgcMX1xSVF1AHBJDTBcGAw4+D10VXAYFUVFOGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVVsOCk5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8= 
+http://rv.therevenge.co:80/8366537097/7715962045/79082
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="CanalSAT",TMC
@@ -28,21 +28,27 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
 https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1135?token=SEFZVRVQFAwbBlMDUgEAVABVVV8BDgRWBVNUUQAIVVMBBVQEB1sFBFtAHBJDTBcGAw4+D10VXAYFUFFOGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVVEMD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
+http://rv.therevenge.co:80/8366537097/7715962045/79121
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.kindpng.com/picc/m/286-2865451_syfy-channel-logo-png-transparent-png.png" group-title="CanalSAT",Syfy
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1131?token=SEFZVRVQFAwbW1JUAg1TAVYBVl8AAlZRA1JRVwlaBFBXU1UMUAgFU11AHBJDTBcGAw4+D10VXAYFUFVOGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVVoOAE5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8= 
+http://rv.therevenge.co:80/8366537097/7715962045/79067
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
 http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwFcW1JQAFEAVFYDUAJQAwFdBFcEUVUFAwwDUglAHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlABD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
+EXTINF:-1 tvg-id="" tvg-name="Toonamie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Toonamie
+http://rv.therevenge.co:80/8366537097/7715962045/78506
 #EXTINF:-1 tvg-id="" tvg-name="Piwi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Piwi
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1170?token=SEFZVRVQFAwbBAAIVQkABVpSBAQIVl8OUFMFUV0JVwQGBwVSV10AD1xAHBJDTBcGAw4+D10VXAYFVFROGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlcOC05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
+http://rv.therevenge.co:80/8366537097/7715962045/78498
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Teletoon
+http://rv.therevenge.co:80/8366537097/7715962045/78505
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1171?token=SEFZVRVQFAwbUVYDUw8AV1tRUwJdUVNVAFdSWw0BBlIGVVBXXg4FV19AHBJDTBcGAw4+D10VXAYFVFVOGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlINDE5DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8= 
+http://rv.therevenge.co:80/8366537097/7715962045/78503
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Cartoon Network
+http://rv.therevenge.co:80/8366537097/7715962045/78507
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
