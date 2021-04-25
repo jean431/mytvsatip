@@ -70,7 +70,6 @@ http://212.102.60.40:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/2021/04/25/13/28/12-060
 https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/TiJi_logo_2000.png" group-title="Enfant",Tiji
 http://rv.therevenge.co:80/8366537097/7715962045/78545
-
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://212.102.60.40:2200/EX/Game_One_Plus-fr/tracks-v1a1/index.m3u8?token=RED_l63WOkhEs_S1_OLHfH5ZBw==,1619374563.6549955073
 
