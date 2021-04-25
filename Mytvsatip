@@ -28,9 +28,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
 https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://rv.therevenge.co:80/8366537097/7715962045/79121
+http://rv.therevenge.co:80/8366537097/7715962045/78481
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.kindpng.com/picc/m/286-2865451_syfy-channel-logo-png-transparent-png.png" group-title="CanalSAT",Syfy
-http://rv.therevenge.co:80/8366537097/7715962045/79067
+http://rv.therevenge.co:80/8366537097/7715962045/78426
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
@@ -58,7 +58,7 @@ https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/TiJi_logo_2000.png" group-title="Enfant",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
-http://rv.therevenge.co:80/8366537097/7715962045/78734
+http://rv.therevenge.co:80/8366537097/7715962045/78412
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
 http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDc6NTE6MTUgUE0maGFzaF92YWx1ZT1Ma1N0MmQ0cDZrRlV3ZnhKcXF2THdnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CanalSAT",Canal+ Cinema
@@ -81,6 +81,10 @@ http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1130?token=SEFZVRVQFAwbBANVBgx
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjU5IEFNJmhhc2hfdmFsdWU9Rk1jdXRObWZIMHhMaUh6RVhpWnd3UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CanalSAT",DiscoveryScience
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 tvg-id="" tvg-name="Novelas" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",Novelas
+http://rv.therevenge.co:80/8366537097/7715962045/78474
+
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
 http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAxOjE3IFBNJmhhc2hfdmFsdWU9ZmtDbFg4ZC8wYWh0aHJFaC9jOGJRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CanalSAT",NatGeo
