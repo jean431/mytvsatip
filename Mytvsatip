@@ -35,7 +35,7 @@ http://rv.therevenge.co:80/8366537097/7715962045/79067
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
 http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwFcW1JQAFEAVFYDUAJQAwFdBFcEUVUFAwwDUglAHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlABD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
-EXTINF:-1 tvg-id="" tvg-name="Toonamie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Toonamie
+EXTINF:-1 tvg-id="" tvg-name="Toonamie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/1280px-Toonami_2014_logo_vector.svg.png" group-title="Enfant",Toonamie
 http://rv.therevenge.co:80/8366537097/7715962045/78506
 #EXTINF:-1 tvg-id="" tvg-name="Piwi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Piwi
 http://rv.therevenge.co:80/8366537097/7715962045/78498
@@ -43,11 +43,11 @@ http://rv.therevenge.co:80/8366537097/7715962045/78498
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Teletoon
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Teletoon_2011.PNG" group-title="Enfant",Teletoon
 http://rv.therevenge.co:80/8366537097/7715962045/78505
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
 http://rv.therevenge.co:80/8366537097/7715962045/78503
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Enfant",Cartoon Network
 http://rv.therevenge.co:80/8366537097/7715962045/78507
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
