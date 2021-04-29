@@ -39,8 +39,8 @@ http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2208
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
-http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwFcW1JQAFEAVFYDUAJQAwFdBFcEUVUFAwwDUglAHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlABD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
+#EXTINF:-1 tvg-id="" tvg-name="J-one" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/1585.png" group-title="Enfant",J-one
+http://158.69.117.229:8484/live/YVr5H0B2mcZT/wr5AZI9QTfh/2356
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Toonami_Logo_2021.png/250px-Toonami_Logo_2021.png" group-title="Enfant",Toonami
 http://212.102.60.40:2200/EX/FR_TOONAMI-fr/tracks-v1a1/2021/04/25/13/29/50-07520.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
@@ -54,7 +54,7 @@ http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2V
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Teletoon_2011.PNG" group-title="Enfant",Teletoon
-http://rv.therevenge.co:80/8366537097/7715962045/78505
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2347
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
 http://62.210.148.212:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2062
@@ -100,7 +100,7 @@ http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2V
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Novelas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas tv
-http://212.102.60.40:2200/EX/Novelas-fr/tracks-v1a1/index.m3u8?token=RED_l63WOkhEs_S1_OLHfH5ZBw==,1619374563.6549955073
+http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2131
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
 http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAxOjE3IFBNJmhhc2hfdmFsdWU9ZmtDbFg4ZC8wYWh0aHJFaC9jOGJRdz09JnZhbGlkbWludXRlcz0yMA==
