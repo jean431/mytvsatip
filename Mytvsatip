@@ -17,7 +17,7 @@ https://mmsiptv.com/live/tf1/playlist.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://185.246.210.38:2200/VOD/redaction3-fr/tracks-v1a1/2021/04/25/13/20/50-10219.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
+http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2204
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
@@ -34,10 +34,11 @@ https://mmsiptv.com/live/m6/playlist.m3u8
 http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2110
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.kindpng.com/picc/m/286-2865451_syfy-channel-logo-png-transparent-png.png" group-title="CanalSAT",Syfy
-http://212.102.60.40:2200/EX/SYFY_FR-fr/tracks-v1a1/2021/04/25/13/25/37-06000.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2208
 
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Enfant",Disney XD
 http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwFcW1JQAFEAVFYDUAJQAwFdBFcEUVUFAwwDUglAHBJDTBcGAw4+D10VXAYFVV1OGkwRBEE8WFBEAhQFCloJEhwaEQoPBkNcCAFXDgZbVlABD05DQwpVFlxWQ1pVThJVSEwAEQwCDTldUhBeVwZGWFZMDg0fQV5aOVxTW1gMVBIKGlRBTkEIFUkVXFlBDwhOGlsLFUECRVFEAlhDVQ4cElNXEA0WERhEAxUrYhZPRgdATQcPQApeWkQCFEJKQBwSWUs6EQcQFRRcVgtSRkFeQAgbTkNeAklrBVdYWFwBRFlfVhZBWEFWVgkVShVZDAoLTFYQPkMKVRZcVkNaVR8=
 
@@ -45,33 +46,35 @@ http://143.198.237.90:25461/NoD7uQbOez/jDONsgHct4/1169?token=SEFZVRVQFAwbAwBUAwF
 http://212.102.60.40:2200/EX/FR_TOONAMI-fr/tracks-v1a1/2021/04/25/13/29/50-07520.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
 
 #EXTINF:-1 tvg-id="" tvg-name="Piwi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",Piwi
-http://212.102.60.40:2200/EX/PIWI_PLUS-fr/tracks-v1a1/2021/04/25/13/26/16-09080.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2361
 
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
 http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjEgODozOToyMSBBTSZoYXNoX3ZhbHVlPTRpeElKZ3h2TDV4SGtFWnFyeGZqcnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Teletoon_2011.PNG" group-title="Enfant",Teletoon
 http://rv.therevenge.co:80/8366537097/7715962045/78505
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
-http://212.102.60.40:2200/EX/CANAL_J-fr/tracks-v1a1/index.m3u8?token=RED_l63WOkhEs_S1_OLHfH5ZBw==,1619374563.6549955073
+http://62.210.148.212:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2062
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Enfant",Cartoon Network
-http://212.102.60.40:2200/EX/CARTOON_NETWORK-fr/tracks-v1a1/2021/04/25/13/28/52-04000.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
+http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2358
 
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
-http://212.102.60.40:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/2021/04/25/13/28/12-06000.ts?token=RED_l63WOkhEs_S1_OLHfH5ZBw%3D%3D%2C1619374563.6549955073
+http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2359
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
 https://mmsiptv.com/live/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/TiJi_logo_2000.png" group-title="Enfant",Tiji
-http://rv.therevenge.co:80/8366537097/7715962045/78545
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2361
+
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
-http://212.102.60.40:2200/EX/Game_One_Plus-fr/tracks-v1a1/index.m3u8?token=RED_l63WOkhEs_S1_OLHfH5ZBw==,1619374563.6549955073
+http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2116
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
 http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDc6NTE6MTUgUE0maGFzaF92YWx1ZT1Ma1N0MmQ0cDZrRlV3ZnhKcXF2THdnPT0mdmFsaWRtaW51dGVzPTIw
