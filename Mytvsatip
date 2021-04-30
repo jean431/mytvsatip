@@ -19,7 +19,8 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
 http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2204
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://spng.subpng.com/20180526/hkt/kisspng-paramount-pictures-paramount-channel-television-ch-5b09119ba9bac0.9186550615273209876952.jpg" group-title="CanalSAT",Paramount Channel
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2179
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
