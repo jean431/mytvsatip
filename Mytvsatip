@@ -86,20 +86,25 @@ http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2116
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
 http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDc6NTE6MTUgUE0maGFzaF92YWx1ZT1Ma1N0MmQ0cDZrRlV3ZnhKcXF2THdnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CanalSAT",Canal+ Cinema
-http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1101?token=SEFZVRVQFAwbBFZWAllVVgZSB14ABlcOAwYBAQ0AUFNWUgNVXl1SUAxAHBJDTBcGAw4+D10VXAYFU1VOGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVFEKCU5DQwpVFlwaBwMBUQYSHBoAGxYGEwhYWzlTURUNAV0bWA9GD10YRFdYaV0HXVFeXEdZQFJDShteFUcWWQoXVFVOQ1EKRUYHTFMUA0ABAgIMR09AAA4TV0MUThZZRi9tG05DVhtFUQhLX1lXQAoSREtHT0AKEjlLUhVDRgYFD11LQFsRUxMYRFVXTmYBX15eXQYXCwwPFRsNRAUEU1RAFBsPDl0KRVsUZ0ZfXUAKEgENUlBaQRw=
+http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2056
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-family.png" group-title="CanalSAT",Canal+ Family
 http://stream.tvtap.live:8081/live/fr-canalplus-famiz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU0OjU1IEFNJmhhc2hfdmFsdWU9VnYzZ1ltb2ZuaG5ZN3BwdVFTaVl4QT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5e708cf5c8d6a14b.2Epng/1200x630/crop-from/top/quality/80/canal-series.png" group-title="CanalSAT",Canal+ Series
-http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1103?token=SEFZVRVQFAwbUlQGAwtSVlAHVARbAAVWDAIFAQtYAQUDW1BVUVlTUgBAHBJDTBcGAw4+D10VXAYFU1dOGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVFsICk5DQwpVFlwaBQQNUAQSHBoAGxYGEwhYWzlTURUNAV0bWA9GD10YRFdYaV0HXVFeXEdZQFJDShteFUcWWQoXVFVOQ1EKRUYHTFMUAwxFXFwURwANFg8SS05EDRYuMUAUGwcZRwZfRw9XWBQDQERDEhRHChE8EwNKQxRSVQ4BEBoDQFERTxNZB0BpVVYMXlVTTAwMDBBDXBsFVgcEQUhAVVYMCEcMQ2sWUVIUA0ADAgMNXUEf
+http://62.210.125.143:8458/live/YVr5H0B2mcZT/wr5AZI9QTfh/2186
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="CanalSAT",Canal+ Classic
-http://stream.tvtap.live:8081/live/fr-cineplus-classic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU2OjUyIEFNJmhhc2hfdmFsdWU9Rjd1MElBaGpxRWMyMFIwWmN0VktjUT09JnZhbGlkbWludXRlcz0yMA==
+http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2190
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Emotion
 http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU3OjIyIEFNJmhhc2hfdmFsdWU9aFl1U3ljWDF6WnduVVRaUngzbFNHQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Frisson" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CanalSAT",Canal+ Frisson
 http://stream.tvtap.live:8081/live/fr-cineplus-frisson.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjAwIEFNJmhhc2hfdmFsdWU9ZGU4a2o5amVKVU8xNE1sUmlPNFhPQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Canal+ Premier
 http://stream.tvtap.live:8081/live/fr-cineplus-premier.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjMyIEFNJmhhc2hfdmFsdWU9Mmt2TkhZaGJkeE9nWkJHUUxRVlBzUT09JnZhbGlkbWludXRlcz0yMA==
-
+#EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Comedie%21_%282008%29.png/1200px-Comedie%21_%282008%29.png" group-title="CanalSAT",Comedie
+http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1130?token=SEFZVRVQFAwbBANVBgxRVVECA1VcBlcOBAABUloPBlhQUgRQBAwCBFhAHBJDTBcGAw4+D10VXAYFUFROGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVlAADE5DQwpVFlwaBw8JUxIcEl0dFwcRDwdVaAJSQgoHBxoDDBRfDx0WCVZpUlwPUV5UGl9BU0FNRFBEFhUODREOVBVAA1oXQ1USXRQMVxdcXBwaBgwXDRUUQBVcFXk2Rk4aXBoVVg1CXQlWFAwbFkMSHBoMED0RBBVNRQNWWQYWQAIbUkMfQVxVHmdVWVcMVVNEUQoNEUFbRAsHVgcWT0YPV1cLFVwRbkQPXBQMG1MICQYaGA==
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjU5IEFNJmhhc2hfdmFsdWU9Rk1jdXRObWZIMHhMaUh6RVhpWnd3UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CanalSAT",DiscoveryScience
@@ -114,7 +119,8 @@ http://158.69.117.229:8484/live/YVr5H0B2mcZT/wr5AZI9QTfh/2084
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
-http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAxOjE3IFBNJmhhc2hfdmFsdWU9ZmtDbFg4ZC8wYWh0aHJFaC9jOGJRdz09JnZhbGlkbWludXRlcz0yMA==
+http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2220
+
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CanalSAT",NatGeo
 http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAyOjI0IFBNJmhhc2hfdmFsdWU9TVQyRkhyQnc3TW42cUttQ3lWeG9Kdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Planete +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="CanalSAT",Planete +
@@ -161,8 +167,10 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Infomation",TV5 Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Decouvert" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="CanalSAT",RMC-Decouvert
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2143
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Story" tvg-logo="https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/medias-tele/la-chaine-numero-23-sest-rebaptisee-rmc-story-3746462/49954682-1-fre-FR/La-chaine-Numero-23-s-est-rebaptisee-RMC-Story.jpg"group-title="CanalSAT",RMC-Story
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/numero23-850465/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lcp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="Infomation",Lcp
