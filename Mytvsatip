@@ -46,7 +46,9 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 https://mmsiptv.com/live/m6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://rv.therevenge.co:80/8366537097/7715962045/79121
+http://rv.therevenge.co:80/307250011110/307250011110/79121
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="CanalSAT",Syfy
 http://rv.therevenge.co:80/8366537097/7715962045/79067
