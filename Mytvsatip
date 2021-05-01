@@ -23,6 +23,14 @@ http://rv.therevenge.co:80/8366537097/7715962045/79082
 http://rv.therevenge.co:80/8366537097/7715962045/78474
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
+http://rv.therevenge.co:80/8366537097/7715962045/78972
+
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/1280px-M6_Music_2012.png" group-title="Music",M6 Music
+http://rv.therevenge.co:80/8366537097/7715962045/78973
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://spng.subpng.com/20180526/hkt/kisspng-paramount-pictures-paramount-channel-television-ch-5b09119ba9bac0.9186550615273209876952.jpg" group-title="CanalSAT",Paramount Channel
 http://rv.therevenge.co:80/8366537097/7715962045/79070
 
@@ -48,6 +56,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Canal%2B_D%C3%A9cal%C3%A9_2005.svg/1280px-Canal%2B_D%C3%A9cal%C3%A9_2005.svg.png" group-title="CanalSAT",Canal+ Decale
 http://rv.therevenge.co:80/8366537097/7715962045/79085
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/1280px-Toonami_logo.svg.png" group-title="Enfant",Toonami
+http://rv.therevenge.co:80/8366537097/7715962045/78506
 
 
 #EXTINF:-1 tvg-id="" tvg-name="J-one" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/1585.png" group-title="Enfant",J-one
@@ -110,23 +122,23 @@ http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsA
 http://stream.tvtap.live:8081/live/fr-cineplus-frisson.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjAwIEFNJmhhc2hfdmFsdWU9ZGU4a2o5amVKVU8xNE1sUmlPNFhPQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Canal+ Premier
 http://stream.tvtap.live:8081/live/fr-cineplus-premier.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjMyIEFNJmhhc2hfdmFsdWU9Mmt2TkhZaGJkeE9nWkJHUUxRVlBzUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Comedie%21_%282008%29.png/1200px-Comedie%21_%282008%29.png" group-title="CanalSAT",Comedie
-http://143.198.237.90:25461/87Nz9GnKON/SjVkZ15c0t/1130?token=SEFZVRVQFAwbBANVBgxRVVECA1VcBlcOBAABUloPBlhQUgRQBAwCBFhAHBJDTBcGAw4+D10VXAYFUFROGkwRBEE8WFBEAhQFClQEEhwaEQoPBkNcCAFXDwdXVlAADE5DQwpVFlwaBw8JUxIcEl0dFwcRDwdVaAJSQgoHBxoDDBRfDx0WCVZpUlwPUV5UGl9BU0FNRFBEFhUODREOVBVAA1oXQ1USXRQMVxdcXBwaBgwXDRUUQBVcFXk2Rk4aXBoVVg1CXQlWFAwbFkMSHBoMED0RBBVNRQNWWQYWQAIbUkMfQVxVHmdVWVcMVVNEUQoNEUFbRAsHVgcWT0YPV1cLFVwRbkQPXBQMG1MICQYaGA==
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjU5IEFNJmhhc2hfdmFsdWU9Rk1jdXRObWZIMHhMaUh6RVhpWnd3UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CanalSAT",DiscoveryScience
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CanalSAT",Warner TV
-http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2175
+http://rv.therevenge.co:80/8366537097/7715962045/79063
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Comédie+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Comedie%21_%282008%29.png" group-title="CanalSAT",Comédie+
-http://158.69.117.229:8484/live/YVr5H0B2mcZT/wr5AZI9QTfh/2084
+http://rv.therevenge.co:80/8366537097/7715962045/79105
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
-http://51.178.131.215:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2220
+http://rv.therevenge.co:80/8366537097/7715962045/79004
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CanalSAT",NatGeo
 http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAyOjI0IFBNJmhhc2hfdmFsdWU9TVQyRkhyQnc3TW42cUttQ3lWeG9Kdz09JnZhbGlkbWludXRlcz0yMA==
