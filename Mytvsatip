@@ -24,7 +24,14 @@ http://rv.therevenge.co:80/8366537097/7715962045/78474
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",Trace Urban
-http://rv.therevenge.co:80/8366537097/7715962045/78972
+https://mj1b2xsspj.singularcdn.net.br/trace/urbanint/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-logo="https://alloforfait.fr/wp-content/uploads/2019/05/trace-latina.jpg" group-title="MUSIC",Trace Latina
+https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Trace_Toca.png/1200px-Trace_Toca.png" group-title="MUSIC",Trace Toca
+https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/1280px-M6_Music_2012.png" group-title="MUSIC",M6 Music
 http://rv.therevenge.co:80/8366537097/7715962045/78973
@@ -99,7 +106,7 @@ http://rv.therevenge.co:80/8366537097/7715962045/78411
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/TiJi_logo_2000.png" group-title="Enfant",Tiji
-http://rv.therevenge.co:80/8366537097/7715962045/78509
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://rv.therevenge.co:80/8366537097/7715962045/79053
@@ -327,7 +334,7 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Latino (US)" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="MUSIC",Vevo Latino  (US)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1tvg-id="" tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81F5PF9oHhL._AC_SL1500_.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
