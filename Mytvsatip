@@ -19,6 +19,11 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
 http://rv.therevenge.co:80/8366537097/7715962045/79082
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Chasse & Pêche" tvg-logo="https://d30buqn6euwicz.cloudfront.net/tradeshows/tlx140/tl-5810ac1363d56-Salon-Chasse-Pec.png" group-title="CanalSAT",13eme Rue
+http://rv.therevenge.co:80/8366537097/7715962045/78992
+
+
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/598px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
 http://rv.therevenge.co:80/8366537097/7715962045/79065
 
