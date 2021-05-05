@@ -19,6 +19,10 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
 http://rv.therevenge.co:80/8366537097/7715962045/79082
 
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/598px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
+http://rv.therevenge.co:80/8366537097/7715962045/79065
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Novelas Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas Tv
 http://rv.therevenge.co:80/8366537097/7715962045/78474
 
@@ -55,6 +59,10 @@ https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
 http://rv.therevenge.co:80/8366537097/7715962045/79121
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_AB3.svg/1280px-Logo_AB3.svg.png" group-title="CanalSAT",AB3
+http://rv.therevenge.co:80/8366537097/7715962045/79050
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="CanalSAT",Syfy
@@ -101,7 +109,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 http://rv.therevenge.co:80/8366537097/7715962045/78508
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://rv.therevenge.co:80/8366537097/7715962045/78411
+http://rv.therevenge.co:80/8366537097/7715962045/79052
 
 
 
