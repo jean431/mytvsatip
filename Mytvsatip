@@ -20,12 +20,12 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 http://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Chasse & Pêche" tvg-logo="https://d30buqn6euwicz.cloudfront.net/tradeshows/tlx140/tl-5810ac1363d56-Salon-Chasse-Pec.png" group-title="CanalSAT",Chasse & Pêche
-http://rv.therevenge.co:80/8366537097/7715962045/78992
+#EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
+http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDE6NDA6MTggQU0maGFzaF92YWx1ZT1VSWhxMllWTWRMamZKZk53QmRpdnZ3PT0mdmFsaWRtaW51dGVzPTIw 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/598px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
-http://rv.therevenge.co:80/8366537097/7715962045/79065
+#EXTINF:-1 tvg-id="" tvg-name="La Trois" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/1125px-RTBF_La_Trois_logo.svg.png" group-title="CanalSAT",La Trois
+http://stream.tvtap.live:8081/live/be-la-trois.stream/chunks.m3u8?nimblesessionid=2572400459&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6Mzg6NTIgUE0maGFzaF92YWx1ZT0reHFsNkZUeW1ZUmJGMUViWnY3ellnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Novelas Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas Tv
@@ -47,8 +47,8 @@ http://rv.therevenge.co:80/8366537097/7715962045/78973
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://spng.subpng.com/20180526/hkt/kisspng-paramount-pictures-paramount-channel-television-ch-5b09119ba9bac0.9186550615273209876952.jpg" group-title="CanalSAT",Paramount Channel
-http://rv.therevenge.co:80/8366537097/7715962045/79070
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_AB1.svg/1280px-Logo_AB1.svg.png" group-title="CanalSAT",AB1
+http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="CanalSAT",Antenne Reunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
