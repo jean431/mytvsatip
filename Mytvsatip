@@ -31,12 +31,16 @@ http://stream.tvtap.live:8081/live/be-la-trois.stream/chunks.m3u8?nimblesessioni
 #EXTINF:-1 tvg-id="" tvg-name="Novelas Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas Tv
 http://rv.therevenge.co:80/8366537097/7715962045/78474
 
+#EXTINF:-1 tvg-id="" tvg-name="Trace Caribean" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Trace_Caribbean_%282020-.n.v.%29.png/revision/latest?cb=20200814154019" group-title="MUSIC",Trace Caribean
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15598
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",Trace Urban
-https://mj1b2xsspj.singularcdn.net.br/trace/urbanint/6/prog_index.m3u8
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15601
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-logo="https://alloforfait.fr/wp-content/uploads/2019/05/trace-latina.jpg" group-title="MUSIC",Trace Latina
-https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+http://35.159.22.157:8080/Amigotv_online/gNCQEXF40sC2/2456?token=SxpQVxUKFVxBAQYHBQBQUQ8BVlEDDA1XU1xRU1cJBwUIXFsBBQQHVFJGHxZDQhdXWQ5tXlYaDwMEDFJPQ0VBUkJnUVJEWBVTUFIGABIaR0ZRDlcVCAkDAwAPUFtXAQsbEkhRUkRYFVRUUwEDEhpHV0AXV0VcWVluVFwSCgJVEA1eTVRaSkBYCDwAVllRWAEQAkECFR4aXEJAG15BNVVeUlNXVRY2DkIVQyhHUBIaR1BRF0BWRl0XCxILXFFWEh4VU1dNWBIQTkRZRn5hEhpHV0AXV1lBUVpfEgNGFxISHhVZS2dEAxFDFAYFXlFCFF8QCUEeFV9ZTW5TVgoNBFNGXl9WSxRcQAZWU1QRGBJbClxRF11FbUhcVRIDRlJUAAACEkU=
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Trace_Toca.png/1200px-Trace_Toca.png" group-title="MUSIC",Trace Toca
 https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
