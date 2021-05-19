@@ -178,7 +178,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31319.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31318.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 5
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31317.ts
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo=" https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="Cinema",OCS Max
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="Cinema",OCS Max
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11685
 #EXTINF:-1 tvg-id="" tvg-name="OCS Geant" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/31/20120925185114%21OCS_geants.png" group-title="Cinema",OCS Geant
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11652
