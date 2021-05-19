@@ -166,7 +166,7 @@ http://62.210.246.140:8081/yacinetv/FRwild/chunks.m3u8?nimblesessionid=43253104&
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CanalSAT",Warner TV
 http://rv.therevenge.co:80/8366537097/7715962045/79063
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png " group-title="Cinema",CanalPlay1
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png " group-title="Cinema",CanalPlay 1
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31321.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31320.ts
