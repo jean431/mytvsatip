@@ -17,7 +17,7 @@ https://mmsiptv.com/live/tf1/playlist.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://62.210.246.140:8081/yacinetv/FRAction/chunks.m3u8?nimblesessionid=43250524&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjQwOjMxIFBNJmhhc2hfdmFsdWU9em0wZGxaQ0VlQS9Fa0lIYVgzWm9sUT09JnZhbGlkbWludXRlcz0yMA==
+http://1.adrawayoun.xyz/live/125/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
