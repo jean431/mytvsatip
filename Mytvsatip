@@ -214,16 +214,8 @@ https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194.ts
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193.ts
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",Beinsport3
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31192.ts
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport4" tvg-logo="https://i.pinimg.com/originals/db/2a/1d/db2a1d988397715a3aeac9b8bdcbac07.png" group-title="SPORT",Beinsport4
-http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUwOjA2IEFNJmhhc2hfdmFsdWU9a1VZYWFXcjBVNGpqOHJFeFcxK2RTQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport5" tvg-logo="https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png" group-title="SPORT",Beinsport5
-http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUwOjM3IEFNJmhhc2hfdmFsdWU9UFdETUpTVCtqdHV2ZGdQQmszSVVxUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport6" tvg-logo="https://3.bp.blogspot.com/-inmcBHmBgNQ/W7JItAULX8I/AAAAAAAAAJk/obWG8mWE2iosTQ5-UrRQjb41GVMF8IOEgCEwYBhgL/s320/6.png" group-title="SPORT",Beinsport6
-http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUxOjExIEFNJmhhc2hfdmFsdWU9cjYwd2JWY0JBVjZKUTNtUkhJUG9yZz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport7" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN7.png" group-title="SPORT",Beinsport7
-http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUxOjQyIEFNJmhhc2hfdmFsdWU9ckJUYXJkQ2RaMGJuLzd6bnJ2KzAxQT09JnZhbGlkbWludXRlcz0yMA==
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
 http://62.210.246.140:8081/yacinetv/RmcSport1/chunks.m3u8?nimblesessionid=43274717&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjI4OjQzIFBNJmhhc2hfdmFsdWU9N1EzY3NrekJLdnlpLy9uMWFQQU1pUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
