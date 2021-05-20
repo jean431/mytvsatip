@@ -29,7 +29,7 @@ http://stream.tvtap.live:8081/live/be-la-trois.stream/chunks.m3u8?nimblesessioni
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="CanalSAT",Animaux
-http://62.210.246.140:8081/yacinetv/AnimauxFR/chunks.m3u8?nimblesessionid=43270742&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjA0IFBNJmhhc2hfdmFsdWU9Z0F4OGsyTXpMVm52NFYzaHhrQWxHQT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/AnimauxFR/chunks.m3u8?nimblesessionid=43304819&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjA0IFBNJmhhc2hfdmFsdWU9Z0F4OGsyTXpMVm52NFYzaHhrQWxHQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Caribean" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Trace_Caribbean_%282020-.n.v.%29.png/revision/latest?cb=20200814154019" group-title="MUSIC",Trace Caribean
 http://38.143.137.40:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31262.ts?token=HUdaWBUKEQtABVMCUFUDBgdXAFcBAFBfBQlUAwRUVFFXB1MLBFULAFUVTxdHEBBQAF9rWlERCQoDClBUHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwIFCwMMU1UJDVYYRBVbXURYEQNWAlsGFkhAUBlGUUFbUl9mVl0QD1JQRg4IEF5VSkBcXz1TBlhVCgYXWxAEERkRWkpCGlwIRFkIGEQHW00UA0dUQA1BBA1SWxdNEFdcQF1HS0saXER8YEYYRABKTQMMQFgNWUEPFhARF00QXUBqQVZKRkoDB1xQFhZcRwMbSkBeUBpoAFpaCgdWFVtbXUYRCRsDCVdWExlGWQkLW00JEGxBC1NBDxZVVw1XAxZO
@@ -119,13 +119,14 @@ http://rv.therevenge.co:80/8366537097/7715962045/78505
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11645.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Enfant",Cartoon Network
-http://62.210.246.140:8081/yacinetv/CartoonNetworkfr/chunks.m3u8?nimblesessionid=43279880&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjMzIFBNJmhhc2hfdmFsdWU9NW5GRHZhSmNUOUFNdGs1Ny9rYVFHUT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/FRboomerang/chunks.m3u8?nimblesessionid=43304920&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjE1IFBNJmhhc2hfdmFsdWU9QVpDOVRMdjM5MHlTaFYrQ0phQWd3UT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
-http://62.210.246.140:8081/yacinetv/FRboomerang/chunks.m3u8?nimblesessionid=43280348&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjE1IFBNJmhhc2hfdmFsdWU9QVpDOVRMdjM5MHlTaFYrQ0phQWd3UT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/FRboomerang/l_407962_10507129_1747.ts?nimblesessionid=43304959&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjE1IFBNJmhhc2hfdmFsdWU9QVpDOVRMdjM5MHlTaFYrQ0phQWd3UT09JnZhbGlkbWludXRlcz0yMA==
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
 http://rv.therevenge.co:80/8366537097/7715962045/79052
@@ -217,7 +218,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
-http://62.210.246.140:8081/yacinetv/RmcSport1/chunks.m3u8?nimblesessionid=43274717&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjI4OjQzIFBNJmhhc2hfdmFsdWU9N1EzY3NrekJLdnlpLy9uMWFQQU1pUT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/RmcSport1/chunks.m3u8?nimblesessionid=43304868&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjI4OjQzIFBNJmhhc2hfdmFsdWU9N1EzY3NrekJLdnlpLy9uMWFQQU1pUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31263.ts
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
