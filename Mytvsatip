@@ -1041,8 +1041,8 @@ http://zoppello.fr/download/films/Star.Wars.The.Rise.Of.Skywalker.2019.MULTi.VFF
 http://zoppello.fr/download/films/Star%20War%20VII%20Le%20r%c3%a9veil%20de%20la%20force.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Last Jedi" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fmG3CR%2BvL._AC_SY679_.jpg" group-title="FILM FR",Star Wars The Last Jedi
 http://zoppello.fr/download/films/Star%20Wars%20The%20Last%20Jedi/Star%20Wars%20The%20Last%20Jedi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="FILM FR",Terminator Dark Fate
-http://w.sylviethiriez.com/Downloads/films/Terminator%20Dark%20Fate%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Movies",Terminator Dark Fate
+http://185.165.241.18:25461/movie/AtlasMovies/8F5jhArcpXsUQ/8023.mkv?token=ThsJVUpQEANEVlEHWwcCB1MDAwoEBAwDAVUBUlNTBgFRWlQFCA8LD1MRTRERQEFRBV49UVIXAw8HBAtIFUURUkdmCFAbAhAIRB9DRwtZVhZeAlQKBAcKAAcOD0gVQAtTFwNDBggMBwtEH0NWGkBWRgpSDmdSUE9eVFMaXhUSThVaVz5QXFVTVwIRWxFSFh8WDUASGgxbTFtbGhoGXkQQVkFcQw4bCQABXxFNEQFbRloQQRsaDBd0YhUaGgFPRAdZRlAOWhsCEFQNRUMfQF1AaxZWEUxEUFhaUkQaXhUAQBsXVABMZltdVwhWAkcLW11HRglACBQZG1pYWFEQWEI9R1xdQw5XTV5VGw==
 #EXTINF:-1 tvg-id="" tvg-name="The King " tvg-logo="https://miro.medium.com/max/568/0*QmGa8XRWq3ZvdbWM.jpg" group-title="FILM FR",The King
 http://zoppello.fr/download/films/The.King.2019.MULTi.WEB-DL.x264-ARK01.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Meg" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81erRS108iL._AC_SL1500_.jpg" group-title="FILM FR",The Meg
