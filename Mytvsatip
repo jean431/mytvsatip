@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png"CanalSAT",Arte
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjQ2OjQ1IEFNJmhhc2hfdmFsdWU9eWJIeW40QitYVzJndHhHUzM3VWk5dz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88274.ts
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/France_3_logo_2002.svg/592px-France_3_logo_2002.svg.png" group-title="CanalSAT",France 3
-https://mmsiptv.com/live/france3/playlist.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88273.ts
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1200px-France4-logo.svg.png" group-title="CanalSAT",France 4
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88272.ts
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="CanalSAT",France 5
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france5live-12474/hls/index.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88271.ts
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="CanalSAT",C8
 http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUyOjIyIEFNJmhhc2hfdmFsdWU9M0FVL1VKTEh4U0JibTNkRXIyR3YvQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
