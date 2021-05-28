@@ -60,7 +60,8 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18112
 
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
-http://185.180.15.15:2200/EX/13EME_RUE-fr/index.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw==,1622238623.7165478160
+http://185.180.15.15:2200/EX/13EME_RUE-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_AB1.svg/1280px-Logo_AB1.svg.png" group-title="CanalSAT",AB1
 http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
