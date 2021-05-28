@@ -202,7 +202,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11684.ts
 #EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Voyage_logo.png" group-title="CanalSAT",Voyage
 http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MTA6MTUgUE0maGFzaF92YWx1ZT1FVGJtQ1JTVUo1Yk5HMGJRSUpOdHVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="CanalSAT",Ushuaïa
-http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
+http://212.224.98.204:2200/EX/USHUAIA_TV-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="SPORT",Canal+ Sport
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
