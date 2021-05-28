@@ -379,7 +379,7 @@ http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014)
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
 #EXTINF:-1 tvg-id="" tvg-name="John Wick Parabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
-#EXTINF:-1 tvg-id="" tvg-name="Movies"tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="Action",Mulan
+#EXTINF:-1 tvg-id="" tvg-name="Mulan"tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="Action",Mulan
 http://93.190.141.193:8080/movie/AtlasMovies/8F5jhArcpXsUQ/8688.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
 http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
@@ -522,7 +522,7 @@ http://188.165.227.112/portail/films/300.Rise.of.an.Empire.mkv
 http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20mHDgz.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="https://i1.wp.com/movie-screencaps.com/wp-content/uploads/2017/02/2001-space-movie-screencaps.com-.jpg?fit=1920%2C864&ssl=1" group-title="FILM FR",A Space Odyssey
 http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action",Alita Battle Angel
+#EXTINF:-1 tvg-id="" tvg-name="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action",Alita Battle Angel
 http://eu2.vod.rednetcontent.com/lr2nNM0_JvbZ5H0DkAc8ag==,1622253228/VOD1/Movies/FR/Alita.mp4/seg-6-v1-a1.ts
 #EXTINF:-1 tvg-id="" tvg-name="Captain America First Avengers" tvg-logo="https://i.pinimg.com/originals/9a/a1/76/9aa176940c24fc8ee727f24e130de075.jpg" group-title="Marvel",Captain America First Avengers
 http://stream.youp.lol/c/Captain%20America%20%20First%20Avenger%20.mp4
