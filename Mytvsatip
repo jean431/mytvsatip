@@ -526,7 +526,7 @@ http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
 http://eu2.vod.rednetcontent.com/lr2nNM0_JvbZ5H0DkAc8ag==,1622253228/VOD1/Movies/FR/Alita.mp4/seg-6-v1-a1.ts
 #EXTINF:-1 tvg-id="" tvg-name="Captain America First Avengers" tvg-logo="https://i.pinimg.com/originals/9a/a1/76/9aa176940c24fc8ee727f24e130de075.jpg" group-title="Marvel",Captain America First Avengers
 http://stream.youp.lol/c/Captain%20America%20%20First%20Avenger%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="Movies",Avengers Endgame
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="Marvel",Avengers Endgame
 http://185.165.241.18:25461/movie/AtlasMovies/8F5jhArcpXsUQ/6305.mkv?token=ThsJVUpQEANEBVRVAAcKUlcBUQ1VVglWVVUOBwFRBA9WDFVVDFkGXFcRTRERQEFRBV49UVIXAwEEBg1IFUURUkdmCFAbAhAIRB9DRwtZVhZeAlQKBAcKDwEDCEgVQAtTFwNDBgsBARtKEQRLFlFBWgVfPVxTQ1BUUhQCRhUcQFhbZgVRVFlcXUQJQwNAGBFdF0NAAlhAVVsbFFoNQ0IDQ1AbWxYICAABRB9DUA1BXUAWSkACFHhsFRsUXRxDVQxEXFYPFgMaX1IQEU0RC0dsRgFAFkpTVFRSRRQCRgcSThVYWBlrWldcVwNQFVoNWkAWXhFSGhoXVFhZX0wLRW8SXlEbW1pMVF5E
 #EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="https://i.pinimg.com/originals/e5/71/41/e571414587e53559bdeba51ba1724445.jpg" group-title="DC Universe",Batman Superman Dawn Of Justice
 http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice%202016%20EXTENDED%20MULTi%20VFF%20AC3-DTS%201080p%20HDLight%20x264.GHT.mkv
@@ -628,7 +628,7 @@ http://stream.youp.lol/a/6B8CfAYTzR9Twses0T08ylNVXlH.mp4
 http://stream.youp.lol/w/w8NECPBCViY0h7945WcmNUIROEm.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Horse Girl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkxYjU5Y2ItOGE5Yi00ZTg2LTgzNmUtZjI3NTNlOWRhNzllXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg" group-title="FILM FR",Horse Girl
 http://stream.youp.lol/r/RjiEuu8bJjnOmrNDqSjrSFSe4N.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRhYWFkMDEtNTFjZC00OWJkLWJmMWQtNzI2OWRjZjVjOGYyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="Action",Escape from Pretoria
+#EXTINF:-1 tvg-id="" tvg-name="Escape from Pretoria" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRhYWFkMDEtNTFjZC00OWJkLWJmMWQtNzI2OWRjZjVjOGYyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="Action",Escape from Pretoria
 http://93.190.141.193:8080/movie/AtlasMovies/8F5jhArcpXsUQ/8231.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tsi and Ossi" tvg-logo="https://m.media-amazon.com/images/M/MV5BODljYmUyOTctOWFlYS00MzcxLWE1MjMtNjdjM2E2NzcyYjM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="FILM FR",Tsi ans Ossi
 http://stream.youp.lol/j/j3xfnQxc99gdmlCtWl07HkVvy0K.mp4
@@ -1041,7 +1041,7 @@ http://zoppello.fr/download/films/Star.Wars.The.Rise.Of.Skywalker.2019.MULTi.VFF
 http://zoppello.fr/download/films/Star%20War%20VII%20Le%20r%c3%a9veil%20de%20la%20force.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars The Last Jedi" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fmG3CR%2BvL._AC_SY679_.jpg" group-title="FILM FR",Star Wars The Last Jedi
 http://zoppello.fr/download/films/Star%20Wars%20The%20Last%20Jedi/Star%20Wars%20The%20Last%20Jedi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Movies",Terminator Dark Fate
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Dark Fate" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Action",Terminator Dark Fate
 http://185.165.241.18:25461/movie/AtlasMovies/8F5jhArcpXsUQ/8023.mkv?token=ThsJVUpQEANEVlEHWwcCB1MDAwoEBAwDAVUBUlNTBgFRWlQFCA8LD1MRTRERQEFRBV49UVIXAw8HBAtIFUURUkdmCFAbAhAIRB9DRwtZVhZeAlQKBAcKAAcOD0gVQAtTFwNDBggMBwtEH0NWGkBWRgpSDmdSUE9eVFMaXhUSThVaVz5QXFVTVwIRWxFSFh8WDUASGgxbTFtbGhoGXkQQVkFcQw4bCQABXxFNEQFbRloQQRsaDBd0YhUaGgFPRAdZRlAOWhsCEFQNRUMfQF1AaxZWEUxEUFhaUkQaXhUAQBsXVABMZltdVwhWAkcLW11HRglACBQZG1pYWFEQWEI9R1xdQw5XTV5VGw==
 #EXTINF:-1 tvg-id="" tvg-name="The King " tvg-logo="https://miro.medium.com/max/568/0*QmGa8XRWq3ZvdbWM.jpg" group-title="FILM FR",The King
 http://zoppello.fr/download/films/The.King.2019.MULTi.WEB-DL.x264-ARK01.mkv
