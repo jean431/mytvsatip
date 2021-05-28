@@ -17,7 +17,7 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://62.210.246.140:8081/yacinetv/FRAction/chunks.m3u8?nimblesessionid=43334152&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjQwOjMxIFBNJmhhc2hfdmFsdWU9em0wZGxaQ0VlQS9Fa0lIYVgzWm9sUT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/FRAction/chunks.m3u8?nimblesessionid=43392413&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjQwOjMxIFBNJmhhc2hfdmFsdWU9em0wZGxaQ0VlQS9Fa0lIYVgzWm9sUT09JnZhbGlkbWludXRlcz0yMA==
 
 
 #EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
@@ -154,7 +154,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11634.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Emotion
-http://62.210.246.140:8081/yacinetv/CineEmotion/chunks.m3u8?nimblesessionid=43269533&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjQxOjAzIFBNJmhhc2hfdmFsdWU9YXBBQnJtbnRvempIRXFFbDJNRWl5dz09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/CineEmotion/chunks.m3u8?nimblesessionid=43392436&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjQxOjAzIFBNJmhhc2hfdmFsdWU9YXBBQnJtbnRvempIRXFFbDJNRWl5dz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Frisson" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CanalSAT",Canal+ Frisson
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31301
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Canal+ Premier
@@ -164,7 +164,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11628.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="CanalSAT",NatGeo WILD
-http://62.210.246.140:8081/yacinetv/FRwild/chunks.m3u8?nimblesessionid=43253104&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjEzIFBNJmhhc2hfdmFsdWU9aDJuSHpZWld2WWxwTFBKaWtZcjkydz09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/FRwild/chunks.m3u8?nimblesessionid=43392437&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjEzIFBNJmhhc2hfdmFsdWU9aDJuSHpZWld2WWxwTFBKaWtZcjkydz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CanalSAT",Warner TV
 http://rv.therevenge.co:80/8366537097/7715962045/79063
