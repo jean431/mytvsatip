@@ -29,7 +29,7 @@ http://stream.tvtap.live:8081/live/be-la-trois.stream/chunks.m3u8?nimblesessioni
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="CanalSAT",Animaux
-http://62.210.246.140:8081/yacinetv/AnimauxFR/chunks.m3u8?nimblesessionid=43304819&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjA0IFBNJmhhc2hfdmFsdWU9Z0F4OGsyTXpMVm52NFYzaHhrQWxHQT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/AnimauxFR/chunks.m3u8?nimblesessionid=43392395&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjA0IFBNJmhhc2hfdmFsdWU9Z0F4OGsyTXpMVm52NFYzaHhrQWxHQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Caribean" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Trace_Caribbean_%282020-.n.v.%29.png/revision/latest?cb=20200814154019" group-title="MUSIC",Trace Caribean
 http://38.143.137.40:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31262.ts?token=HUdaWBUKEQtABVMCUFUDBgdXAFcBAFBfBQlUAwRUVFFXB1MLBFULAFUVTxdHEBBQAF9rWlERCQoDClBUHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwIFCwMMU1UJDVYYRBVbXURYEQNWAlsGFkhAUBlGUUFbUl9mVl0QD1JQRg4IEF5VSkBcXz1TBlhVCgYXWxAEERkRWkpCGlwIRFkIGEQHW00UA0dUQA1BBA1SWxdNEFdcQF1HS0saXER8YEYYRABKTQMMQFgNWUEPFhARF00QXUBqQVZKRkoDB1xQFhZcRwMbSkBeUBpoAFpaCgdWFVtbXUYRCRsDCVdWExlGWQkLW00JEGxBC1NBDxZVVw1XAxZO
@@ -129,7 +129,7 @@ http://62.210.246.140:8081/yacinetv/FRboomerang/l_407962_10507129_1747.ts?nimble
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://62.210.246.140:8081/yacinetv/Mangas/chunks.m3u8?nimblesessionid=43334345&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU1OjA3IFBNJmhhc2hfdmFsdWU9am51QVZSSFZiRkxDZUtPazBlTWFJZz09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/Mangas/l_455101_3744000_623.ts?nimblesessionid=43392387&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU1OjA3IFBNJmhhc2hfdmFsdWU9am51QVZSSFZiRkxDZUtPazBlTWFJZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Famiz" tvg-logo="https://www.bessis.fr/medias/jpg/bessis_creation_de_nom_famiz_s.jpg" group-title="CanalSAT",Canal+ Famiz
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31293.ts
@@ -218,7 +218,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
-http://62.210.246.140:8081/yacinetv/RmcSport1/chunks.m3u8?nimblesessionid=43304868&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjI4OjQzIFBNJmhhc2hfdmFsdWU9N1EzY3NrekJLdnlpLy9uMWFQQU1pUT09JnZhbGlkbWludXRlcz0yMA==
+http://62.210.246.140:8081/yacinetv/RmcSport1/l_453778_45866861_5424.ts?nimblesessionid=43392390&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjI4OjQzIFBNJmhhc2hfdmFsdWU9N1EzY3NrekJLdnlpLy9uMWFQQU1pUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31263.ts
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
