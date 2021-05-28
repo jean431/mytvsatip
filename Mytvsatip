@@ -129,7 +129,7 @@ http://62.210.246.140:8081/yacinetv/FRboomerang/l_407962_10507129_1747.ts?nimble
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://62.210.246.140:8081/yacinetv/Mangas/l_455101_3744000_623.ts?nimblesessionid=43392387&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU1OjA3IFBNJmhhc2hfdmFsdWU9am51QVZSSFZiRkxDZUtPazBlTWFJZz09JnZhbGlkbWludXRlcz0yMA==
+http://185.180.15.15:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_L0EFdJzq-tioNjvs9kNXOA%3D%3D%2C1622237074.6678131232
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Famiz" tvg-logo="https://www.bessis.fr/medias/jpg/bessis_creation_de_nom_famiz_s.jpg" group-title="CanalSAT",Canal+ Famiz
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31293.ts
