@@ -401,8 +401,8 @@ http://stream.youp.lol/a/AkSMd8AXSpA1L1SbBPc2AfVJfmE.mp4
 http://stream.youp.lol/r/rN1Rn5tRBAxnq9pxrkdvUUYrkyn.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fast 7" tvg-logo="https://i.pinimg.com/originals/11/3e/db/113edb59d006280226abb82d8e27bf36.jpg" group-title="FILM FR",Fast 7
 http://stream.youp.lol/w/wjVn1Qng8B3ySvfJr4ovuehI141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fast 8" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/718nCn%2Bqk0L._SL1410_.jpg" group-title="FILM FR",Fast 8
-http://stream.youp.lol/p/pIR2YHJIgcNzFtDZgsg3YG656IY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast 8" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/718nCn%2Bqk0L._SL1410_.jpg" group-title="Movies",Fast 8
+http://93.190.141.193:8080/movie/AtlasMovies/8F5jhArcpXsUQ/7726.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="FILM FR",Avatar
 http://stream.youp.lol/a/upd6F9IIMbzSl5reXsyMk7xH4Ou.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monster & cie" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Ed5rXQ8BL._SL1500_.jpg" group-title="Anime FR",Monster & cie
