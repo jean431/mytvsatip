@@ -96,7 +96,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/8660.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/1280px-Toonami_logo.svg.png" group-title="Enfant",Toonami
-http://212.224.98.210:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=null
+http://212.224.98.205:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_J8IOhWXhDH8H6VS203UiAw%3D%3D%2C1622243587.2444931170
 
 
 #EXTINF:-1 tvg-id="" tvg-name="J-one" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/1585.png" group-title="Enfant",J-one
