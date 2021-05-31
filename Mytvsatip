@@ -1119,8 +1119,8 @@ http://zoppello.fr/download/films/American%20Nightmare/The%20First%20Purge.avi
 #EXTINF:-1 tvg-id="" tvg-name="Aliens vs Predator Requiem" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81PeIPfT3kL._AC_SL1500_.jpg" group-title="FILM FR",Aliens vs Predator Requiem
 http://zoppello.fr/download/films/Aliens%20vs%20Predator%20Requiem/Aliens%20vs%20Predator%20Requiem.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Ant-man and the wasp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1CGAvzql5L._AC_SL1500_.jpg" group-title="Marvel",Ant-man and the wasp
-http://zoppello.fr/download/films/Ant-Man%20and%20the%20Wasp/Ant-Man%20and%20the%20Wasp.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ant-man and the wasp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1CGAvzql5L._AC_SL1500_.jpg" group-title="Movies-Marvel",Ant-man and the wasp
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/4361.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71y%2BE9MaURL._AC_SL1260_.jpg" group-title="Movies-DC Universe",Aquaman
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/5241.mkv
