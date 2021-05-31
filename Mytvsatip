@@ -23,12 +23,10 @@ http://212.224.98.211:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1
 http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDE6NDA6MTggQU0maGFzaF92YWx1ZT1VSWhxMllWTWRMamZKZk53QmRpdnZ3PT0mdmFsaWRtaW51dGVzPTIw 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="La Trois" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/1125px-RTBF_La_Trois_logo.svg.png" group-title="CanalSAT",La Trois
-http://stream.tvtap.live:8081/live/be-la-trois.stream/chunks.m3u8?nimblesessionid=2572400459&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6Mzg6NTIgUE0maGFzaF92YWx1ZT0reHFsNkZUeW1ZUmJGMUViWnY3ellnPT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="CanalSAT",Animaux
-http://62.210.246.140:8081/yacinetv/AnimauxFR/chunks.m3u8?nimblesessionid=43392395&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjA0IFBNJmhhc2hfdmFsdWU9Z0F4OGsyTXpMVm52NFYzaHhrQWxHQT09JnZhbGlkbWludXRlcz0yMA==
+http://212.224.98.212:2200/EX/ANIMAUX-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Caribean" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Trace_Caribbean_%282020-.n.v.%29.png/revision/latest?cb=20200814154019" group-title="MUSIC",Trace Caribean
 http://38.143.137.40:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31262.ts?token=HUdaWBUKEQtABVMCUFUDBgdXAFcBAFBfBQlUAwRUVFFXB1MLBFULAFUVTxdHEBBQAF9rWlERCQoDClBUHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwIFCwMMU1UJDVYYRBVbXURYEQNWAlsGFkhAUBlGUUFbUl9mVl0QD1JQRg4IEF5VSkBcXz1TBlhVCgYXWxAEERkRWkpCGlwIRFkIGEQHW00UA0dUQA1BBA1SWxdNEFdcQF1HS0saXER8YEYYRABKTQMMQFgNWUEPFhARF00QXUBqQVZKRkoDB1xQFhZcRwMbSkBeUBpoAFpaCgdWFVtbXUYRCRsDCVdWExlGWQkLW00JEGxBC1NBDxZVVw1XAxZO
