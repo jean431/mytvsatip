@@ -77,7 +77,8 @@ http://185.180.15.15:2200/EX/FR_NRJ_12HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3e
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
-http://38.143.137.40:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31192.ts?token=HUdaWBUKEQtAVVtXBFBbUVMDDAMDUQUABAoCAFJQVA0FXFYOXloLBFQVTxdHEBBQAF9rWlERCQoDCV9UHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwIFCwMMU1UBBFUYRBVbXURYEQZbBVoXGEYHTRVXRl1UX2xdV04PBVQXXloTCV4VRA1dbgZSDlRaAEAPQwIWHxdaQEkQAggTXVlIFgQMRksHFlYTWBVSBQdSQBlDUVtGW0dBQBACRCtkF0gWAx1GXAgRWl4MFVkXQBdAGUNbR2xHVkBNQF0HC1RHRg5EVBAVRA9SST1UDFtaAQFBCF1aQBcJEQgDCVZEHRcJWwgMRlYUPUNYBhVZFw1TUw1DTw==
+http://212.224.98.209:2200/EX/FR_M6_HD-fr/tracks-v1a1/2021/05/31/14/39/23-06058.ts?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31281
