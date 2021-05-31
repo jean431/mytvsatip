@@ -916,8 +916,10 @@ http://zoppello.fr/download/films/American%20Nightmare/The%20First%20Purge.avi
 http://zoppello.fr/download/films/Aliens%20vs%20Predator%20Requiem/Aliens%20vs%20Predator%20Requiem.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ant-man and the wasp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1CGAvzql5L._AC_SL1500_.jpg" group-title="Marvel",Ant-man and the wasp
 http://zoppello.fr/download/films/Ant-Man%20and%20the%20Wasp/Ant-Man%20and%20the%20Wasp.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71y%2BE9MaURL._AC_SL1260_.jpg" group-title="DC Universe",Aquaman
-http://93.190.141.193:8080/movie/AtlasMovies/8F5jhArcpXsUQ/5241.mkv
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/5241.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Assasin's Creed" tvg-logo="https://cdn.mos.cms.futurecdn.net/xjH4a93MGhteqhqU9Q5LX8-1200-80.jpg" group-title="FILM FR",Assasin's Creed
 http://zoppello.fr/download/films/Assasin%20Creed.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Astérix Et Obelix Mission Cleopatre" tvg-logo="https://i.pinimg.com/564x/23/51/c2/2351c26212749e8e5209f046b4fa5a3b.jpg" group-title="Comédie",Astérix Et Obelix Mission Cleopatre
