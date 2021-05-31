@@ -478,8 +478,8 @@ http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ghost Rider" tvg-logo="https://i.pinimg.com/originals/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg" group-title="FILM FR",Ghost Rider
 http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61a03Zq9oRL._AC_.jpg" group-title="Marvel",Black Panther
-http://stream.youp.lol/b/Black%20Panther.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61a03Zq9oRL._AC_.jpg" group-title="Movies-Marvel",Black Panther
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/4154.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="DC Universe",Daredevil
 http://stream.youp.lol/d/Daredevil%20.mp4
