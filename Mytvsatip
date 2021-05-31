@@ -1424,8 +1424,8 @@ http://w.sylviethiriez.com/Downloads/films/BADCOP%202020.avi
 #EXTINF:-1 tvg-id="" tvg-name="Cold Pursuit" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81K7zXvyDBL._AC_SY741_.jpg" group-title="FILM FR",Cold Pursuit
 http://w.sylviethiriez.com/Downloads/films/Cold%20Pursuit%202019.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Countdown" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2019/09/countdown-poster.jpg" group-title="Horreur FR",Countdown
-http://w.sylviethiriez.com/Downloads/films/Countdown.avi
+#EXTINF:-1 tvg-id="" tvg-name="Countdown" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2019/09/countdown-poster.jpg" group-title="Action",Countdown
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/8033.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Jouer avec le feu" tvg-logo="https://www.cinemaclock.com/images/posters/1000x1500/53/jouer-avec-le-feu-2019-affiche.jpg" group-title="FILM FR",Jouer avec le feu
 http://w.sylviethiriez.com/Downloads/films/jouer%20avec%20le%20feu.mkv
