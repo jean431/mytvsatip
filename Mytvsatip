@@ -606,7 +606,7 @@ http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice
 #EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Braveheart_imp.jpg/220px-Braveheart_imp.jpg" group-title="FILM FR",Braveheart.
 http://188.165.227.112/portail/films/Braveheart.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel"tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="Movies-Marvel",Captain.Marvel
+#EXTINF:-1 tvg-id="" tvg-name="Captain Marvel" tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="Movies-Marvel",Captain Marvel
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7138.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="https://i.pinimg.com/originals/3f/ef/d8/3fefd8ed5d5d876d7b1ad05f8aff8b23.jpg" group-title="FILM FR",Ghost in the Shell
