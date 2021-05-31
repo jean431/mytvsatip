@@ -590,7 +590,7 @@ http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20m
 #EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="https://i1.wp.com/movie-screencaps.com/wp-content/uploads/2017/02/2001-space-movie-screencaps.com-.jpg?fit=1920%2C864&ssl=1" group-title="FILM FR",A Space Odyssey
 http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Movies"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action-",Alita Battle Angel
+#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action-",Alita Battle Angel
 http://eu2.vod.rednetcontent.com/lr2nNM0_JvbZ5H0DkAc8ag==,1622253228/VOD1/Movies/FR/Alita.mp4/seg-6-v1-a1.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Captain America First Avengers" tvg-logo="https://i.pinimg.com/originals/9a/a1/76/9aa176940c24fc8ee727f24e130de075.jpg" group-title="Marvel",Captain America First Avengers
@@ -1191,7 +1191,7 @@ http://zoppello.fr/download/films/Godzilla.King.of.the.Monsters.2019.TRUEFRENCH.
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ufFJ3fihL._AC_.jpg" group-title="FILM FR",Godzilla
 http://zoppello.fr/download/films/Godzilla/Godzilla.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2019" tvg-logo="https://cinema.mu/wp-content/uploads/2019/05/hellboy-500x710.jpg" group-title="Movies-Fantastique",Hellboy 2019
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2019" tvg-logo="https://cinema.mu/wp-content/uploads/2019/05/hellboy-500x710.jpg" group-title="Action-Fantastique",Hellboy 2019
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7369.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Hidden Figures" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj%2BjWzxoL._AC_SL1015_.jpg" group-title="FILM FR",Hidden Figures
