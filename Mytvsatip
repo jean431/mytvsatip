@@ -93,7 +93,7 @@ http://50.7.149.82:8080/kennythetiger/1YFY8z6jwT/796?token=GhoNVBVaEA4WAQIBUVNXD
 http://185.180.15.16:2200/EX/FR_W9_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Canal%2B_D%C3%A9cal%C3%A9_2005.svg/1280px-Canal%2B_D%C3%A9cal%C3%A9_2005.svg.png" group-title="CanalSAT",Canal+ Decale
+#EXTINF:-1 tvg-id="" tvg-name="Ciné+ Decale" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Canal%2B_D%C3%A9cal%C3%A9_2005.svg/1280px-Canal%2B_D%C3%A9cal%C3%A9_2005.svg.png" group-title="CanalSAT",Canal+ Decale
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/8660.ts
 
 
@@ -167,7 +167,8 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11628.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
-http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/2021/05/31/15/06/18-01200.ts?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="CanalSAT",NatGeo WILD
 http://62.210.246.140:8081/yacinetv/FRwild/chunks.m3u8?nimblesessionid=43392437&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjUzOjEzIFBNJmhhc2hfdmFsdWU9aDJuSHpZWld2WWxwTFBKaWtZcjkydz09JnZhbGlkbWludXRlcz0yMA==
