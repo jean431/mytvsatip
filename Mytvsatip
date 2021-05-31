@@ -572,7 +572,7 @@ http://stream.youp.lol/u/uaHzlrdgSQsBXiP3fDxi8SLBDes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Le Parc Des Merveilles" tvg-logo="https://fr.web.img2.acsta.net/pictures/19/01/30/10/36/3139738.jpg" group-title="Anime FR",Le Parc Des Merveilles
 http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
+#EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="LadyBug" tvg-logo="https://www.themoviedb.org/t/p/w500/U3wN0xJYdZR2Gi1U79U8EZPxOd.jpg" group-title="Anime FR",LadyBug
@@ -588,7 +588,7 @@ http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20m
 #EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="https://i1.wp.com/movie-screencaps.com/wp-content/uploads/2017/02/2001-space-movie-screencaps.com-.jpg?fit=1920%2C864&ssl=1" group-title="FILM FR",A Space Odyssey
 http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action",Alita Battle Angel
+#EXTINF:-1 tvg-id="" tvg-name="Movies"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action",Alita Battle Angel
 http://eu2.vod.rednetcontent.com/lr2nNM0_JvbZ5H0DkAc8ag==,1622253228/VOD1/Movies/FR/Alita.mp4/seg-6-v1-a1.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Captain America First Avengers" tvg-logo="https://i.pinimg.com/originals/9a/a1/76/9aa176940c24fc8ee727f24e130de075.jpg" group-title="Marvel",Captain America First Avengers
@@ -604,7 +604,7 @@ http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice
 #EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Braveheart_imp.jpg/220px-Braveheart_imp.jpg" group-title="FILM FR",Braveheart.
 http://188.165.227.112/portail/films/Braveheart.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="Marvel",Captain.Marvel
+#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel"tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="Marvel",Captain.Marvel
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7138.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="https://i.pinimg.com/originals/3f/ef/d8/3fefd8ed5d5d876d7b1ad05f8aff8b23.jpg" group-title="FILM FR",Ghost in the Shell
