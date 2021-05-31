@@ -1279,8 +1279,8 @@ http://zoppello.fr/download/films/Pirates%20des%20Cara%c3%afbes%20Quadrilogie%20
 #EXTINF:-1 tvg-id="" tvg-name="Pirates des Caraibes 3 Jusqu'au bout du monde" tvg-logo="https://i.pinimg.com/736x/ff/48/df/ff48df76917cf2537d8743045e2ed492.jpg" group-title="FILM FR",Pirates des Caraibes 3 Jusqu'au bout du monde
 http://zoppello.fr/download/films/Pirates%20des%20Cara%c3%afbes%20Quadrilogie%20Truefrench%20BDrip%20x264-FF30/Pirates%20des%20Cara%c3%afbes%203%20Jusqu'au%20bout%20du%20monde%202007%20Truefrench%20BDrip%20x264-FF30.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Rambo Last Blood" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zMBC1jntL._AC_SL1329_.jpg" group-title="FILM FR",Rambo Last Blood
-http://zoppello.fr/download/films/Rambo.Last.Blood.2019.FRENCH.720p.HDLight.AC3.x264-RDH.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo Last Blood" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zMBC1jntL._AC_SL1329_.jpg" group-title="act",Rambo Last Blood
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7819.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Rampage2018" tvg-logo="https://i.pinimg.com/736x/a8/01/f5/a801f57e95ace4041b09a632ab8eeef4.jpg" group-title="FILM FR",Rampage2018
 http://zoppello.fr/download/films/Rampage2018/Rampage.avi
