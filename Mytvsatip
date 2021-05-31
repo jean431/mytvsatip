@@ -1175,8 +1175,6 @@ http://zoppello.fr/download/films/Equalizer%202,%20The/The%20Equalizer%202.avi
 #EXTINF:-1 tvg-id="" tvg-name="Escape Room" tvg-logo="https://i.pinimg.com/564x/7c/21/c2/7c21c2a6685a5a751f682da636d54b63.jpg" group-title="FILM FR",Escape Room
 http://zoppello.fr/download/films/Escape.Room.2019.FRENCH.BDRip.XviD-EXTREME.avi
 
-#EXTINF:-1 tvg-id="" tvg-name="Fast 9" tvg-logo="https://images.moviesanywhere.com/63766f8889b39eef193ba444260d8b1b/94ef792d-94da-4844-b8fb-3feac84b45c2.jpg" group-title="FILM FR",Fast 9
-http://zoppello.fr/download/films/Fast.and.Furious.Hobbs.and.Shaw.2019.FRENCH.HDRip.x264-EXTREME.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Gemini Man" tvg-logo="https://m.media-amazon.com/images/I/91sMBBwErzL._AC_SL1500_.jpg" group-title="FILM FR",Gemini Man
 http://zoppello.fr/download/films/Gemini.Man.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-TOXIC.mkv
@@ -1193,8 +1191,8 @@ http://zoppello.fr/download/films/Godzilla.King.of.the.Monsters.2019.TRUEFRENCH.
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ufFJ3fihL._AC_.jpg" group-title="FILM FR",Godzilla
 http://zoppello.fr/download/films/Godzilla/Godzilla.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2019" tvg-logo="https://i.pinimg.com/originals/b9/3c/c3/b93cc30f388ef29c8eef6bc0c343ee7c.jpg" group-title="Movies",Hellboy 2019
-http://185.165.241.18:25461/movie/AtlasMovies/8F5jhArcpXsUQ/7369.mkv?token=ThsJVUpQEANEUlUDWg0EDVUBBgFSAA4EAVcOBwMIUQcFAFgEDwELDwQRTRERQEFRBV49UVIXAwAEAAFIFUURUkdmCFAbAhAIRB9DRwtZVhZeAlQKBAcKAgABAEgVQAtTFwNDBQoPAw1EH0NWGkBWRgpSDmdSUE9eVFMaXhUSThVaVz5QXFVTVwIRWxFSFh8WDUASGgxbTFtbGhoGXkQQVkFcQw4bCQAOVxFNEQFbRloQQRsaDBd0YhUaGgFPRAdZRlAOWhsCEFQNRUMfQF1AaxZWEUxEUFhaUkQaXhUAQBsXVABMZltdVwhWAkcLW11HRglACBQZG1pYWFEQWEI9R1xdQw5XTV5VGw==
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2019" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2019/04/hellboy_ver17_xlg.jpg" group-title="Movies-Fantastique",Hellboy 2019
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7369.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Hidden Figures" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj%2BjWzxoL._AC_SL1015_.jpg" group-title="FILM FR",Hidden Figures
 http://zoppello.fr/download/films/Hidden%20Figures%20(2016)%20MULTi%20VFQ%20%5b1080p%5d%20BluRay%20x264.mkv
