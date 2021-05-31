@@ -469,8 +469,8 @@ http://stream.youp.lol/y/ygggrrFNW7p1Wd2Fg5BTq4505VE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Corgi" tvg-logo="https://cdn1.clickthecity.com/images/movies/poster/600/17032.jpg" group-title="Anime FR",The Queen's Corgi
 http://stream.youp.lol/r/Royal%20Corgi%20(The%20Queens%20Corgi).mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2M5MzAtMTdhMC00YzlmLWJiNWUtMTNmMzkxYjA5MjcyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" group-title="FILM FR",Tomb Raider
-http://stream.youp.lol/i/ltOkXWOYZoYstuKrMq44yogotHp.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2M5MzAtMTdhMC00YzlmLWJiNWUtMTNmMzkxYjA5MjcyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" group-title="Action",Tomb Raider
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/4183.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="24Hours To Live" tvg-logo="https://i.pinimg.com/474x/ec/94/f2/ec94f212393133267e2b6befa3480925.jpg" group-title="FILM FR",24Hours To Live
 http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
