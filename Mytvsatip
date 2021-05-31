@@ -1287,8 +1287,8 @@ http://zoppello.fr/download/films/Pirates%20des%20Cara%c3%afbes%20Quadrilogie%20
 #EXTINF:-1 tvg-id="" tvg-name="Rambo Last Blood" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zMBC1jntL._AC_SL1329_.jpg" group-title="Action",Rambo Last Blood
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/7819.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Rampage2018" tvg-logo="https://i.pinimg.com/736x/a8/01/f5/a801f57e95ace4041b09a632ab8eeef4.jpg" group-title="FILM FR",Rampage2018
-http://zoppello.fr/download/films/Rampage2018/Rampage.avi
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="https://i.pinimg.com/736x/a8/01/f5/a801f57e95ace4041b09a632ab8eeef4.jpg" group-title="Action",Rampage
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/4218.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Rio" tvg-logo="https://www.joblo.com/assets/images/oldsite/posters/images/full/rio-foreign-latin-poster.jpg" group-title="Anime FR",Rio
 http://zoppello.fr/download/films/Rio%201%202%20MULTi%20VFF%20DTS%201080p%20HDLight%20x264.GHT/Rio%20(2011)%20MULTi%20VFF%20DTS%201080p%20HDLight%20x264.GHT.mkv
