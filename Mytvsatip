@@ -554,8 +554,8 @@ http://stream.youp.lol/l/La%20Maison%20des%20damns.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Reine des Damnes" tvg-logo="https://img5.cdn.cinoche.com/images/9ad09225ff7ce08a06d0591656b80143.jpg" group-title="Horreur FR",La Reine des Damnes
 http://stream.youp.lol/l/La%20Reine%20des%20damns%20(Queen%20of%20the%20Damned).mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Vampire Killer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg" group-title="Movies",Vampire killer
-http://stream.youp.lol/l/Le%20Bal%20des%20vampires.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island" tvg-logo="https://i.pinimg.com/originals/53/4e/43/534e433920eeb44629c5f0882dbab983.jpg" group-title="Action",Fantasy Island
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/8260.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Area 51" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Area_51_Film_Poster.jpg" group-title="Horreur FR",Area 51
 http://stream.youp.lol/n/nnXYiIxHDu0ivCAaLZae0G1P8CL.mp4
