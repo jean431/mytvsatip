@@ -1561,7 +1561,7 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/Nos.Pires.Voisins.2.2016.VFQ.720P
 #EXTINF:-1 tvg-id="" tvg-name="Prometheus" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41NpdpTKmsL._AC_.jpg" group-title="FILM FR",Prometheus
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Prometheus.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Zack Snyders Justice League 2021" tvg-logo="https://wallpapercave.com/wp/wp8777097.png" group-title="DC Universe",Zack Snyders Justice League 2021
+#EXTINF:-1 tvg-id="" tvg-name="Zack Snyders Justice League 2021" tvg-logo="https://wallpapercave.com/wp/wp8777097.png" group-title="Films-DC Universe",Zack Snyders Justice League 2021
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/9325.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Max Steel" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Z%2BiWFffL._AC_SY741_.jpg" group-title="FILM FR",Max Steel
