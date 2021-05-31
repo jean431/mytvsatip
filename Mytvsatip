@@ -379,8 +379,10 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulan"tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="Action",Mulan
+#EXTINF:-1 tvg-id="" tvg-name="Mulan"tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="Action-Fantastique",Mulan
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/8688.mkv
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
 http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
@@ -1006,6 +1008,11 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/The%20Avengers%20(2012)%20%5b1080
 #EXTINF:-1 tvg-id="" tvg-name="Avengers Infinity War" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._AC_SL1500_.jpg" group-title="Movies-Marvel",Avengers Infinity War
 http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/4265.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Zack Snyders Justice League 2021" tvg-logo="https://wallpapercave.com/wp/wp8777097.png" group-title="Movies-DC Universe",Zack Snyders Justice League 2021
+http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/9325.mkv
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sj8Yt20qL._AC_SL1336_.jpg" group-title="FILM FR",Gladiator
 http://188.165.227.112/portail/films/Gladiator.avi
 
@@ -1561,8 +1568,6 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/Nos.Pires.Voisins.2.2016.VFQ.720P
 #EXTINF:-1 tvg-id="" tvg-name="Prometheus" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41NpdpTKmsL._AC_.jpg" group-title="FILM FR",Prometheus
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/Prometheus.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Zack Snyders Justice League 2021" tvg-logo="https://wallpapercave.com/wp/wp8777097.png" group-title="Movies-DC Universe",Zack Snyders Justice League 2021
-http://93.190.141.193:8080/movie/AtlasMovies/XG2NX6f6EkdDV/9325.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Max Steel" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Z%2BiWFffL._AC_SY741_.jpg" group-title="FILM FR",Max Steel
 http://dl.amy.ovh/Max.Steel.2016.VFi.1080p.BluRay.mHD.x264.AC3-ROMKENT/Max.Steel.2016.VFi.1080p.BluRay.mHD.x264.AC3-ROMKENT.mkv
