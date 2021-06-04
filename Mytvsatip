@@ -223,9 +223,12 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194.ts
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Automoto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg" group-title="SPORT",Automoto
+http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
 http://185.180.15.16:2200/EX/FR_RMC_SPORT1_HD-fr/tracks-v1a1/mono.m3u8?token=null
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31263.ts
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
