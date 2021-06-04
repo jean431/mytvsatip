@@ -464,6 +464,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits (UK)" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="MUSIC",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal 38 HD (BR)" tvg-logo="https://i.imgur.com/ZTClYwb.jpg" group-title="MUSIC",Canal 38 HD (BR)
 https://rtmp.info/canal38/envivo/playlist.m3u8
 
