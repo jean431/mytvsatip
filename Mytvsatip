@@ -149,7 +149,11 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31293.ts
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
+
 http://212.224.98.210:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
+
+#EXTINF:-1 tvg-id="" tvg-name="Gameone Plus" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/gameoneplus2.png" group-title="Enfant",Gameone Plus
+http://212.224.98.211:2200/EX/Game_One_Plus-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275636.ts
