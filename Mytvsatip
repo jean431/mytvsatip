@@ -431,8 +431,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad92
 #EXTINF:-1 tvg-id="5f8ecc1b37867f00071469e9" tvg-name="Tortues Ninja TV" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"group-title="Enfant" ,Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="30a-tv.com" tvg-name="30A Music (US)" tvg-logo="https://i.imgur.com/gNWg9tl.png"group-title="MUSIC",30A Music (US)
-http://30a-tv.com/music.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NrjHits" tvg-logo="https://w7.pngwing.com/pngs/77/795/png-transparent-nrj-hits-internet-radio-television-music-hits-television-text-logo.png" group-title="MUSIC",NrjHits
 http://212.224.98.207:2200/EX/FR_NRJ_HITS_HD-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
