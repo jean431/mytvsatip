@@ -176,9 +176,6 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31320.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 3
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31319.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 4
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31318.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 5
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31317.ts
 
@@ -192,9 +189,6 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11652
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11658
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/1200px-OCS_City.svg.png" group-title="Cinema",OCS City
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11656
-
-#EXTINF:-1 tvg-id="" tvg-name="OCS Go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/OCS_Go.jpg" group-title="Cinema",OCS Go
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11656
 
 
