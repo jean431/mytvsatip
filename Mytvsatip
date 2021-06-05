@@ -49,18 +49,6 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15598
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",Trace Urban
 http://212.224.98.209:2200/EX/TRACE_URBAN-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
-#EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-logo="https://alloforfait.fr/wp-content/uploads/2019/05/trace-latina.jpg" group-title="MUSIC",Trace Latina
-http://35.159.22.157:8080/Amigotv_online/gNCQEXF40sC2/2456?token=SxpQVxUKFVxBAQYHBQBQUQ8BVlEDDA1XU1xRU1cJBwUIXFsBBQQHVFJGHxZDQhdXWQ5tXlYaDwMEDFJPQ0VBUkJnUVJEWBVTUFIGABIaR0ZRDlcVCAkDAwAPUFtXAQsbEkhRUkRYFVRUUwEDEhpHV0AXV0VcWVluVFwSCgJVEA1eTVRaSkBYCDwAVllRWAEQAkECFR4aXEJAG15BNVVeUlNXVRY2DkIVQyhHUBIaR1BRF0BWRl0XCxILXFFWEh4VU1dNWBIQTkRZRn5hEhpHV0AXV1lBUVpfEgNGFxISHhVZS2dEAxFDFAYFXlFCFF8QCUEeFV9ZTW5TVgoNBFNGXl9WSxRcQAZWU1QRGBJbClxRF11FbUhcVRIDRlJUAAACEkU=
-
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Trace_Toca.png/1200px-Trace_Toca.png" group-title="MUSIC",Trace Toca
-https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Rap 2K" tvg-logo="https://w7.pngwing.com/pngs/100/73/png-transparent-rapper-gangsta-rap-hip-hop-music-west-coast-hip-hop-rap-miscellaneous-logo-beat-thumbnail.png" group-title="MUSIC",Rap 2K
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18112
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
@@ -312,8 +300,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 #EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="FRANCE",Drama Movies
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bet" tvg-logo="https://pbs.twimg.com/profile_images/132298084/bet_TwitterBETLogo_400x400.jpg" group-title="MUSIC",Bet
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/bet-14514649/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="FRANCE",Family Movies
 https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
