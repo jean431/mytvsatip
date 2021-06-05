@@ -135,7 +135,7 @@ http://212.224.98.211:2200/EX/CARTOON_NETWORK-fr/tracks-v1a1/mono.m3u8?token=RED
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
-http://62.210.246.140:8081/yacinetv/FRboomerang/l_407962_10507129_1747.ts?nimblesessionid=43304959&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjE1IFBNJmhhc2hfdmFsdWU9QVpDOVRMdjM5MHlTaFYrQ0phQWd3UT09JnZhbGlkbWludXRlcz0yMA==
+http://212.224.98.207:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
