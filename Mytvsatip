@@ -443,8 +443,6 @@ http://185.180.15.13:2200/EX/MCM-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png" group-title="MUSIC",MTV Hits
 http://212.224.98.206:2200/EX/MTV_HITS-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
 
-#EXTINF:-1 tvg-id="" tvg-name="4FUN TV (PL)" tvg-logo="https://i.imgur.com/VFs7mdh.jpg" group-title="MUSIC",4FUN TV (PL)
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits (UK)" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="MUSIC",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -456,23 +454,14 @@ https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latido Music (US)" tvg-logo="https://i.imgur.com/JsHqCfm.jpg" group-title="MUSIC",Latido Music (US)
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
 
-#EXTINF:-1 tvg-id"" Spirit TV" tvg-name="Spirit TV (US)" tvg-logo="https://i.imgur.com/jR24flK.png" group-title="MUSIC",Spirit TV (US)
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 tvg-id"" tvg-name="TOP Latino (BR)" tvg-logo="https://i.imgur.com/OsNy30r.png" group-title="MUSIC",TOP Latino (BR)
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Top Music (BR)" tvg-logo="https://i.imgur.com/G1oaOXY.gif" group-title="MUSIC",Top Music (BR)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VEVO Hip Hop (US)" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="MUSIC",VEVO Hip Hop (US)
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Latino (US)" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="MUSIC",Vevo Latino  (US)
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:-1tvg-id="" tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 
 
