@@ -36,8 +36,8 @@ http://185.180.15.17:2200/EX/FR_TEVA_HD-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6v
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="CanalSAT",Animaux
 http://212.224.98.212:2200/EX/ANIMAUX-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 
-#EXTINF:-1 tvg-id="" tvg-name="Trace Caribean" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Trace_Caribbean_%282020-.n.v.%29.png/revision/latest?cb=20200814154019" group-title="MUSIC",Trace Caribean
-http://38.143.137.40:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31262.ts?token=HUdaWBUKEQtABVMCUFUDBgdXAFcBAFBfBQlUAwRUVFFXB1MLBFULAFUVTxdHEBBQAF9rWlERCQoDClBUHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwIFCwMMU1UJDVYYRBVbXURYEQNWAlsGFkhAUBlGUUFbUl9mVl0QD1JQRg4IEF5VSkBcXz1TBlhVCgYXWxAEERkRWkpCGlwIRFkIGEQHW00UA0dUQA1BBA1SWxdNEFdcQF1HS0saXER8YEYYRABKTQMMQFgNWUEPFhARF00QXUBqQVZKRkoDB1xQFhZcRwMbSkBeUBpoAFpaCgdWFVtbXUYRCRsDCVdWExlGWQkLW00JEGxBC1NBDxZVVw1XAxZO
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c3/MCM_Top_logo_2003.png" group-title="MUSIC",MCM Top
+http://212.224.98.211:2200/EX/MCM_TOP-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/1280px-M6_Music_2012.png" group-title="MUSIC",M6 Music
