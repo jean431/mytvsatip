@@ -238,7 +238,7 @@ http://212.224.98.204:2200/EX/USHUAIA_TV-fr/tracks-v1a1/mono.m3u8?token=RED_SGEt
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
-http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MDY6MDMgUE0maGFzaF92YWx1ZT0vMWJDVGVsNjBkSEg3bktmRUVTWlJBPT0mdmFsaWRtaW51dGVzPTIw
+http://212.224.98.207:2200/EX/INFOSPORT-fr/tracks-v1a1/mono.m3u8?token=RED_PCySrhlZA-c4QGPBZSEI7w%3D%3D%2C1622844969.2072103414
 
 #EXTINF:-1 tvg-id="" tvg-name="L'equipe21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/2065px-Logo_L%27%C3%89quipe_21.svg.png" groupe-title="SPORT",L'equipe21
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
