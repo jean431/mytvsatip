@@ -379,8 +379,6 @@ https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="FRANCE",Fuel TV
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Generations TV" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="MUSIC",Generations TV
-https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
 
 #EXTINF:-1 tvg-id="" tvg-name="Mdl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQD_ty6CE2uOSq5t2Eo83UnNDZqtYOMldqg&usqp=CAU" group-title="FRANCE",Mdl
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
