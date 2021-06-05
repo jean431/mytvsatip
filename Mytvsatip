@@ -417,9 +417,6 @@ https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="FRANCE",Movies Central
 https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Obosso TV" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="MUSIC",Obosso TV
-https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
-
 #EXTINF:-1 tvg-id="5f8ecb9524419b0007365a1c" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png"group-title="Enfant",Dora TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
