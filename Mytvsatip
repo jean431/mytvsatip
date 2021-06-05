@@ -43,8 +43,8 @@ http://212.224.98.211:2200/EX/MCM_TOP-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGL
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/1280px-M6_Music_2012.png" group-title="MUSIC",M6 Music
 http://212.224.98.208:2200/EX/FR_M6_MUSIC_HD-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
 
-#EXTINF:-1 tvg-id="" tvg-name="Trace Hits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TRACE_Hits.png/revision/latest/scale-to-width-down/200?cb=20210104202004" group-title="MUSIC",Trace Hits
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15598
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/1200px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="CanalSAT",Chérie 25
+http://212.224.98.212:2200/EX/CHERIE_25-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
 
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",Trace Urban
 http://212.224.98.209:2200/EX/TRACE_URBAN-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
