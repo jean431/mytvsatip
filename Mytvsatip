@@ -356,7 +356,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2
 #EXTINF:-1 tvg-id="5f8ed9461b35690007a0bc3a" tvg-name="Paranormal" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" group-title="FRANCE",Paranormal
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id=""  tvg-name="TEEN SERIES" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png"group-title="Enfant",TEEN SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TEEN SERIES" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png"group-title="Enfant",TEEN SERIES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="MUSIC",TMA
