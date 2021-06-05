@@ -164,6 +164,11 @@ http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="CanalSAT",NatGeo WILD
 http://185.180.15.14:2200/EX/NATIONAL_GEO_WILD_FR-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CanalSAT",NatGeo
+
+http://212.224.98.207:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CanalSAT",Warner TV
 http://212.224.98.211:2200/EX/FR_WARNER_TV-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
 
