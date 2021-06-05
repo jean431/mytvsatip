@@ -277,10 +277,10 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Decouvert" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="CanalSAT",RMC-Decouvert
-http://149.56.20.84:8787/live/YVr5H0B2mcZT/wr5AZI9QTfh/2143
+http://185.180.15.14:2200/EX/RMC_DECOUVERTE-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Story" tvg-logo="https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/medias-tele/la-chaine-numero-23-sest-rebaptisee-rmc-story-3746462/49954682-1-fre-FR/La-chaine-Numero-23-s-est-rebaptisee-RMC-Story.jpg"group-title="CanalSAT",RMC-Story
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/numero23-850465/hls/index.m3u8
+http://212.224.98.209:2200/EX/FR_RMC_STORY-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
 #EXTINF:-1 tvg-id="" tvg-name="Lcp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="Infomation",Lcp
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/lcplive-22828/hls/index.m3u8
