@@ -189,21 +189,16 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31319.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31317.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="Cinema",OCS Max
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11685
+http://212.224.98.211:2200/EX/OCS_MAX-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Geant" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/31/20120925185114%21OCS_geants.png" group-title="Cinema",OCS Geant
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11652
+http://185.180.15.15:2200/EX/OCS_GEANTS-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Choc" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/1280px-OCS_Choc.svg.png" group-title="Cinema",OCS Choc
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11658
+http://185.180.15.16:2200/EX/OCS_CHOC-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/1200px-OCS_City.svg.png" group-title="Cinema",OCS City
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11656
-
-
-
-
-
+http://212.224.98.210:2200/EX/OCS_CITY-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
 
 #EXTINF:-1 tvg-id="" tvg-name="Planete +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="CanalSAT",Planete +
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11654.ts
