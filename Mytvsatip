@@ -104,9 +104,6 @@ http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
 http://212.224.98.211:2200/EX/FR_6Ter_HD-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Teletoon_2011.PNG" group-title="Enfant",Teletoon
-http://rv.therevenge.co:80/8366537097/7715962045/78505
-
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11645.ts
 
