@@ -241,7 +241,7 @@ http://51.103.23.135:55121/live/lava123/lava123/32250
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31263.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
-http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA1OjA3IFBNJmhhc2hfdmFsdWU9elVtMURTY2hENlhHSExxMVZDcXF2dz09JnZhbGlkbWludXRlcz0yMA==
+http://51.103.23.135:55121/live/lava123/lava123/32246
 
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Infomation",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
