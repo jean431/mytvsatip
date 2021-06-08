@@ -24,7 +24,7 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://212.224.98.211:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+http://185.180.15.17:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_Rt187_fLulmxqpfM71_8hQ%3D%3D%2C1623201183.6172311771
 
 #EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
 http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDE6NDA6MTggQU0maGFzaF92YWx1ZT1VSWhxMllWTWRMamZKZk53QmRpdnZ3PT0mdmFsaWRtaW51dGVzPTIw 
