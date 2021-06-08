@@ -234,7 +234,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31193.ts
 http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
-http://185.180.15.16:2200/EX/FR_RMC_SPORT1_HD-fr/tracks-v1a1/mono.m3u8?token=null
+http://51.103.23.135:55121/live/lava123/lava123/32250
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
