@@ -119,7 +119,7 @@ http://212.224.98.207:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/mono.m3u8?token=RED_ze
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://185.180.15.14:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_Iyqiff7s60k0QB5UjunAqg%3D%3D%2C1623282875.7902171450
+http://212.224.98.210:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_Iyqiff7s60k0QB5UjunAqg%3D%3D%2C1623282875.7902171450
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Famiz" tvg-logo="https://www.bessis.fr/medias/jpg/bessis_creation_de_nom_famiz_s.jpg" group-title="CanalSAT",Ciné+ Famiz
 http://212.224.98.211:2200/EX/CINE_PLUS_FAMIZ-fr/tracks-v1a1/mono.m3u8?token=RED_txnt8H_yKSYbqPAR37zjSQ%3D%3D%2C1622946247.8519395813
@@ -236,6 +236,7 @@ http://212.224.98.210:2200/EX/bein16hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1
 
 #EXTINF:-1 tvg-id="" tvg-name="Automoto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg" group-title="SPORT",Automoto
 http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
 http://51.103.23.135:55121/live/lava123/lava123/32250
