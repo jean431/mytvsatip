@@ -93,7 +93,8 @@ http://185.180.15.15:2200/EX/CANAL_PLUS_DECALE-fr/tracks-v1a1/mono.m3u8?token=RE
 http://185.180.15.14:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_h5LJZd0TdIwoycD1rVNiCw%3D%3D%2C1623433544.5711513706
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Enfant",Disney Channel
-http://212.224.98.207:2200/EX/DISNEY_CHANNEL_FR-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
+http://212.224.98.209:2200/EX/DISNEY_CHANNEL_FR-fr/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PIWI Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",PIWI Plus
 http://212.224.98.212:2200/EX/PIWI_PLUS-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
