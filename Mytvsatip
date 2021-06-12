@@ -262,7 +262,7 @@ http://212.224.98.210:2200/EX/bein16hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1
 http://185.180.15.15:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport HD 2
-http://185.180.15.15:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://212.224.98.209:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORT",Beinsport HD 3
 http://212.224.98.210:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=null
