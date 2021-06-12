@@ -50,7 +50,8 @@ http://212.224.98.212:2200/EX/CHERIE_25-fr/tracks-v1a1/mono.m3u8?token=RED_zex-Z
 http://212.224.98.209:2200/EX/TRACE_URBAN-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Afro Music" tvg-logo="https://www.pngitem.com/pimgs/m/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="MUSIC",Afro Muisc
+
+#EXTINF:-1 tvg-id="" tvg-name="Obosso TV" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="MUSIC",Obosso TV
 http://185.180.15.14:2200/N-EX/RAF_AFRO_Music_Swahili-af/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
