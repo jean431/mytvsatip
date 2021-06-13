@@ -36,6 +36,12 @@ http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="https://p.kindpng.com/picc/s/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSAT",Teva
 http://185.180.15.17:2200/EX/FR_TEVA_HD-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/1200px-RTS_1_logo_2019.svg.png" group-title="CanalSAT",RTS UN
+http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
+
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="https://www.thesportsdb.com/images/media/logo/RTS_Deux_France.png" group-title="CanalSAT",RTS Deux
+http://212.224.98.212:2200/NL/rtsdeuxhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
+
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="CanalSAT",Animaux
 http://212.224.98.212:2200/EX/ANIMAUX-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 
