@@ -136,7 +136,7 @@ http://212.224.98.211:2200/EX/CINE_PLUS_FAMIZ-fr/tracks-v1a1/mono.m3u8?token=RED
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
-http://212.224.98.210:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
+http://212.224.98.211:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone Plus" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/gameoneplus2.png" group-title="Enfant",Gameone Plus
 http://212.224.98.211:2200/EX/Game_One_Plus-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
