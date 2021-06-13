@@ -175,6 +175,15 @@ http://212.224.98.208:2200/N-EX/AF_Novelastv_FR-af/tracks-v1a1/mono.m3u8?token=R
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="CanalSAT",Discovery Channel
+http://185.180.15.16:2200/EX/DISCOVERY_FR-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="CanalSAT",Discovery Science
+http://212.224.98.207:2200/EX/DISCOVERY_SCIENCE_FR-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation" tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="CanalSAT",Discovery Investigation
+http://212.224.98.211:2200/EX/FR_DISCOVERY_INVESTIGATION_HD-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
+
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="CanalSAT",NatGeo WILD
 http://185.180.15.14:2200/EX/NATIONAL_GEO_WILD_FR-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
