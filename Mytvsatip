@@ -107,8 +107,7 @@ http://185.180.15.15:2200/EX/CANAL_PLUS_DECALE-fr/tracks-v1a1/mono.m3u8?token=RE
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/1280px-Toonami_logo.svg.png" group-title="Enfant",Toonami
-http://212.224.98.210:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_m6-NtugY96uiT8vRalIA3w%3D%3D%2C1623701964.9330684025
-
+http://212.224.98.213:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_8SFl-y5hXiXEVUJ6Mv_4rA%3D%3D%2C1623710295.1694134631
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Enfant",Disney Channel
 http://212.224.98.209:2200/EX/DISNEY_CHANNEL_FR-fr/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
