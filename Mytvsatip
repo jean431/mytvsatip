@@ -32,6 +32,8 @@ http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED
 #EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
 http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDE6NDA6MTggQU0maGFzaF92YWx1ZT1VSWhxMllWTWRMamZKZk53QmRpdnZ3PT0mdmFsaWRtaW51dGVzPTIw 
 
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png" group-title="CanalSAT",BET
+http://185.180.15.13:2200/EX/BET-fr/tracks-v1a1/mono.m3u8?token=RED_WbCD5Rh4JSO7jDCvbC88uw%3D%3D%2C1623703127.9761362541
 
 #EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="https://p.kindpng.com/picc/s/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSAT",Teva
 http://185.180.15.17:2200/EX/FR_TEVA_HD-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
