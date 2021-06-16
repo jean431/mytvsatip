@@ -290,13 +290,13 @@ http://212.224.98.210:2200/EX/bein16hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 
-http://185.180.15.14:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://212.224.98.210:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport HD 2
-http://185.180.15.15:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://185.180.15.13:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORT",Beinsport HD 3
-http://185.180.15.16:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://212.224.98.204:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Automoto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg" group-title="SPORT",Automoto
 http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
