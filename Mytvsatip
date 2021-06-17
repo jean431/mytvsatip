@@ -89,8 +89,7 @@ http://212.224.98.209:2200/EX/FR_M6_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emc
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://185.180.15.15:2200/EX/RTL9-fr/tracks-v1a1/mono.m3u8?token=RED_Rt187_fLulmxqpfM71_8hQ%3D%3D%2C1623201183.6172311771
-
+http://212.224.98.208:2200/EX/RTL9-fr/tracks-v1a1/mono.m3u8?token=RED_sq3kU81ThCBc3hOhVyfObg%3D%3D%2C1623978323.9415346851
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="CanalSAT",Syfy
 http://185.180.15.16:2200/EX/SYFY_FR-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
