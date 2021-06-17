@@ -239,7 +239,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11654.ts
 #EXTINF:-1 tvg-id="" tvg-name="Planete + CI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/PLAN%C3%88TE%2B_ci.png" group-title="CanalSAT",Planete + CI
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11684.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Season" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0f/Seasons_logo_old.png" group-title="CanalSAT",Season
+#EXTINF:-1 tvg-id="" tvg-name="Season" tvg-logo="https://pbs.twimg.com/profile_images/803867536458653696/KW6w9fNr.jpg" group-title="CanalSAT",Season
 http://185.180.15.17:2200/EX/SEASON-fr/tracks-v1a1/mono.m3u8?token=RED_tnJSVKHRzBO9F70BRXy9hQ%3D%3D%2C1623953879.4010442737
 
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="CanalSAT",Ushuaïa
