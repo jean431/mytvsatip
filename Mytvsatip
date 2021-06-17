@@ -290,7 +290,8 @@ http://212.224.98.210:2200/EX/bein16hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 
-http://a.mtfxg.xyz:8081/live/beinsport1fr/chunks.m3u8?nimblesessionid=60752&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDIxIDU6MDA6NTMgUE0maGFzaF92YWx1ZT1TWlBnWUd1SUVobGx5VjNsdGg5TWZ3PT0mdmFsaWRtaW51dGVzPTI=
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport HD 2
 http://185.180.15.13:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=null
