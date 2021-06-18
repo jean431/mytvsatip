@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
-http://212.224.98.211:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_896/00869/live_896-str001-20210618T152813_00031.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
-http://212.224.98.206:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
+http://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_896.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSAT",Arte
 http://185.180.15.13:2200/EX/Arte_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
@@ -57,10 +57,10 @@ http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="CanalSAT",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:iptvcat.com
+http://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_896.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="CanalSAT",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+http://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_896/00013/live_896-501-20210618T153152_00154.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Nrj12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/1200px-NRJ_12_logo_2015.svg.png" group-title="CanalSAT",Nrj12
 http://212.224.98.212:2200/EX/FR_NRJ_12HD-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
