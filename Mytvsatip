@@ -49,6 +49,7 @@ http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxW
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="https://www.thesportsdb.com/images/media/logo/RTS_Deux_France.png" group-title="CanalSAT",RTS Deux
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11653
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/1200px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="CanalSAT",Chérie 25
 http://212.224.98.212:2200/EX/CHERIE_25-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
 
