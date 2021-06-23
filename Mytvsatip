@@ -229,7 +229,7 @@ http://185.180.15.17:2200/EX/SEASON-fr/tracks-v1a1/mono.m3u8?token=RED_tnJSVKHRz
 http://212.224.98.204:2200/EX/USHUAIA_TV-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="SPORT",Canal+ Sport
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11692.ts
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGBCdy9GcTByc1xGUgwWYuF2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
 http://212.224.98.207:2200/EX/INFOSPORT-fr/tracks-v1a1/mono.m3u8?token=RED_PCySrhlZA-c4QGPBZSEI7w%3D%3D%2C1622844969.2072103414
@@ -277,15 +277,6 @@ http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf
 #EXTINF:-1 tvg-id="" tvg-name="Sport en France" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="SPORT",Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="SPORT",Beinsport 1
-http://212.224.98.206:2200/EX/bein14hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
-
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",Beinsport 2
-http://212.224.98.210:2200/EX/bein15hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",Beinsport 3
-http://212.224.98.210:2200/EX/bein16hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 1
 http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
