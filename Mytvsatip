@@ -22,7 +22,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88272.ts
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88271.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="CanalSAT",C8
-http://212.224.98.206:2200/EX/FR_C8_HD-fr/tracks-v1a1/mono.m3u8?token=RED_tnJSVKHRzBO9F70BRXy9hQ%3D%3D%2C1623953879.4010442737
+http://104.251.216.218/fr/c8.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
 http://185.180.15.17:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_Rt187_fLulmxqpfM71_8hQ%3D%3D%2C1623201183.6172311771
