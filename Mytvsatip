@@ -10,16 +10,16 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 http://185.180.15.13:2200/EX/Arte_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88274.ts
+http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/France_3_logo_2002.svg/592px-France_3_logo_2002.svg.png" group-title="CanalSAT",France 3
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88273.ts
+http://185.93.1.39/FRCH_FRANCE_3_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1200px-France4-logo.svg.png" group-title="CanalSAT",France 4
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88272.ts
+http://185.93.1.39/FRCH_FRANCE_4_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="CanalSAT",France 5
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88271.ts
+http://185.93.1.39/FRCH_FRANCE_5_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="CanalSAT",C8
 http://104.251.216.218/fr/c8.php
@@ -81,13 +81,13 @@ http://212.224.98.208:2200/EX/RTL9-fr/tracks-v1a1/mono.m3u8?token=RED_sq3kU81ThC
 http://185.180.15.16:2200/EX/SYFY_FR-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
-http://185.180.15.16:2200/EX/FR_W9_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+http://185.93.1.39/FRCH_W9_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Breizh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="CanalSAT",Tv Breizh
 http://212.224.98.204:2200/EX/TV_BREIZH-fr/tracks-v1a1/mono.m3u8?token=RED_m6-NtugY96uiT8vRalIA3w%3D%3D%2C1623701964.9330684025
 
 #EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="CanalSAT",6ter
-http://212.224.98.211:2200/EX/FR_6Ter_HD-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
+http://185.93.1.39/FRCH_6TER_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://185.180.15.14:2200/EX/FR_CSTAR-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
