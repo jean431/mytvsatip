@@ -25,7 +25,7 @@ http://185.93.1.39/FRCH_FRANCE_5_HD/tracks-v1a1/mono.m3u8
 http://104.251.216.218/fr/c8.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://185.180.15.17:2200/EX/ACTION-fr/tracks-v1a1/mono.m3u8?token=RED_Rt187_fLulmxqpfM71_8hQ%3D%3D%2C1623201183.6172311771
+http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
 http://185.180.15.15:2200/EX/13EME_RUE-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
