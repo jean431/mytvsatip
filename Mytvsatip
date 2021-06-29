@@ -126,7 +126,6 @@ http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRg42bpR3btVEIzVHbQBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="CanalSAT",Ciné+ Classic
-
 http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Frisson" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CanalSAT",Ciné+ Frisson
@@ -163,7 +162,7 @@ http://212.224.98.210:2200/EX/OCS_CITY-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dc
 http://212.224.98.213:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_8SFl-y5hXiXEVUJ6Mv_4rA%3D%3D%2C1623710295.1694134631
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://212.224.98.208:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_EwwWnFov2de4Xm_aw42mLg%3D%3D%2C1623354888.3840950098
+http://62.210.246.140:8081/yacinetv/Mangas/l_554317_3235762_531.ts?nimblesessionid=43448423&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU1OjA3IFBNJmhhc2hfdmFsdWU9am51QVZSSFZiRkxDZUtPazBlTWFJZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://212.224.98.211:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
