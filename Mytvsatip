@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
-http://185.180.15.16:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_MndXt-AMZMOLOGxAOKwFzQ%3D%3D%2C1625266648.8785053216
+http://185.180.15.17:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_DBLaObvMJOJr4i24Q-6p0w%3D%3D%2C1625272565.5204896163
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
