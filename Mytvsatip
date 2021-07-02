@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31277
+http://212.224.98.213:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_x-UDtSAJDWywwImwFtFESw%3D%3D%2C1625258186.9105867431
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
@@ -10,13 +10,13 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 http://185.180.15.13:2200/EX/Arte_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
-http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
+http://212.224.98.213:2200/EX/FR_France_2HD-fr/tracks-v1a1/mono.m3u8?token=RED_9sAvrcrgfxg2mugiuPFR3Q%3D%3D%2C1625258512.0582978273
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/France_3_logo_2002.svg/592px-France_3_logo_2002.svg.png" group-title="CanalSAT",France 3
-http://185.93.1.39/FRCH_FRANCE_3_HD/tracks-v1a1/mono.m3u8
+http://185.180.15.15:2200/EX/FR_France_3HD-fr/tracks-v1a1/mono.m3u8?token=RED_9sAvrcrgfxg2mugiuPFR3Q%3D%3D%2C1625258512.0582978273
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1200px-France4-logo.svg.png" group-title="CanalSAT",France 4
-http://185.93.1.39/FRCH_FRANCE_4_HD/tracks-v1a1/mono.m3u8
+http://185.180.15.16:2200/EX/FR_France_4HD-fr/tracks-v1a1/mono.m3u8?token=RED_9sAvrcrgfxg2mugiuPFR3Q%3D%3D%2C1625258512.0582978273
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="CanalSAT",France 5
 http://185.93.1.39/FRCH_FRANCE_5_HD/tracks-v1a1/mono.m3u8
@@ -282,14 +282,14 @@ https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 1
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
+http://185.180.15.17:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=RED_mr2G4OoT00LG6DodvA2hTQ%3D%3D%2C1625257962.2832876895
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport HD 2
-http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
+http://212.224.98.206:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=RED_x-UDtSAJDWywwImwFtFESw%3D%3D%2C1625258186.9105867431
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="SPORT",Beinsport HD 3
-http://62.210.244.185:25461/SRTVAPP/SRTV//8842?token=GRJZVEZeEA8TUFIJUFEOVVVcAlcEAAAIV1FfVQAGUAVSCQQAVwQBUVRATxsVF0VSVgk8WlAWCQFZA1ROFUYRARBvWFEXDBAMA1JXAFVTDwUVSEFHXVlWG1sGUFADAlBVVAkJGRdGW1ETWEEIX1QFBhVIQVZMQFZLD1YKPVNWFA0BVRMPW0NeWR1ADFc5B1JaVgoHEQ4WAhtNFQ8RRxFYChdcXRkXVFtBQwMXXERZWUJbCE8RV1tGVxVFH0ANES8xQBwTUE1CV1tCCwxXRFkVQ0RGTxFdR2xLBEQSEFJSDwEQEgsXBRQeF1wDG2YFDFlZUgcXWltaQBtbFVdAGxEPCwxZRVpHaUJcVUBZG1daAQ8CRh4=
+http://212.224.98.212:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=RED_x-UDtSAJDWywwImwFtFESw%3D%3D%2C1625258186.9105867431
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
 http://51.103.23.135:55121/live/lava123/lava123/32250
