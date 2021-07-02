@@ -281,8 +281,10 @@ http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 1
-http://185.180.15.17:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=RED_mr2G4OoT00LG6DodvA2hTQ%3D%3D%2C1625257962.2832876895
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="SPORT",Beinsport HD 
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORT",Beinsport HD 2
 http://212.224.98.206:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=RED_x-UDtSAJDWywwImwFtFESw%3D%3D%2C1625258186.9105867431
