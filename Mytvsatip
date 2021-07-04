@@ -31,7 +31,7 @@ http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15232
 
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1200px-Serieclub_%282012%29.svg.png" group-title="CanalSAT",Serie Club
-http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
+http://185.93.1.39/FRCH_SERIES_PLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1280px-RTBF_La_Une_logo.svg.png" group-title="CanalSAT",La Une
 http://stream.tvtap.live:8081/live/be-la-une.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIxIDE6NDA6MTggQU0maGFzaF92YWx1ZT1VSWhxMllWTWRMamZKZk53QmRpdnZ3PT0mdmFsaWRtaW51dGVzPTIw 
