@@ -172,7 +172,7 @@ http://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/1200.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Enfant",Disney Channel
-http://212.224.98.209:2200/EX/DISNEY_CHANNEL_FR-fr/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
+http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PIWI Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",PIWI Plus
