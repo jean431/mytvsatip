@@ -458,10 +458,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad92
 #EXTINF:-1 tvg-id="" tvg-name="Tortues Ninja TV" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"group-title="Enfant",Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name="Monster 2021" tvg-logo="https://occ-0-1167-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVblXl6O_hS2wyLaHPUurpqhW_LociaYHBPYpke4K97zmxTQYrm7qdBM7ZFk0-wLbuNdhKfkhDMz11Yk0xUt1otm-vKYknfPGlQpvtR2afuPeBNPlmThGS8iuqhsWg.jpg" group-title="Film",Monster 2021
+#EXTINF:-1 tvg-id="" tvg-name="Monster" tvg-logo="https://occ-0-1167-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVblXl6O_hS2wyLaHPUurpqhW_LociaYHBPYpke4K97zmxTQYrm7qdBM7ZFk0-wLbuNdhKfkhDMz11Yk0xUt1otm-vKYknfPGlQpvtR2afuPeBNPlmThGS8iuqhsWg.jpg" group-title="Film",Monster
 http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/116.mp4
 
 
+#EXTINF:-1 tvg-id="" tvg-name="The 2nd" tvg-logo="https://i.pinimg.com/originals/c1/ae/7d/c1ae7d978a6bc9b9e2b542ed79bda122.png" group-title="Film",The 2nd
+http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/115.mp4
 
 
 
