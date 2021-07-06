@@ -7,7 +7,7 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSAT",Arte
-http://185.180.15.13:2200/EX/Arte_HD-fr/tracks-v1a1/mono.m3u8?token=RED_qbM_zn3U8GFMEVmRHYni5g%3D%3D%2C1623519900.8607017141
+http://b.mtfxg.xyz:8081/live/fr-arte/l_941056_207583_21.ts?nimblesessionid=563421&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMjoyMjo1OSBQTSZoYXNoX3ZhbHVlPTN2ZDBlL1F0OGxBd29QOTZON0IvNWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
 http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
@@ -179,7 +179,7 @@ http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
 http://212.224.98.212:2200/EX/PIWI_PLUS-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
 
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
-http://212.224.98.206:2200/EX/FR_Gulli-fr/tracks-v1a1/mono.m3u8?token=null
+http://b.mtfxg.xyz:8081/live/fr-gulli/l_939850_4819741_723.ts?nimblesessionid=563383&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMjoyMDoyMiBQTSZoYXNoX3ZhbHVlPVUyTGlQblVURXlpcS9jSkxycWRvWHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
