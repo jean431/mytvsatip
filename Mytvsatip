@@ -30,6 +30,7 @@ http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15232
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1200px-Serieclub_%282012%29.svg.png" group-title="CanalSAT",Serie Club
 http://185.93.1.39/FRCH_SERIES_PLUS/tracks-v1a1/mono.m3u8
 
