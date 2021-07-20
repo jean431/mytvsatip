@@ -462,14 +462,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b3
 #EXTINF:-1 tvg-id="" tvg-name="Monster" tvg-logo="https://occ-0-1167-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVblXl6O_hS2wyLaHPUurpqhW_LociaYHBPYpke4K97zmxTQYrm7qdBM7ZFk0-wLbuNdhKfkhDMz11Yk0xUt1otm-vKYknfPGlQpvtR2afuPeBNPlmThGS8iuqhsWg.jpg" group-title="Film",Monster
 http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/116.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="The 2nd" tvg-logo="https://i.pinimg.com/originals/c1/ae/7d/c1ae7d978a6bc9b9e2b542ed79bda122.png" group-title="Film",The 2nd
 http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/115.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Percy" tvg-logo="https://media-cache.cinematerial.com/p/500x/qccyautu/percy-canadian-movie-poster.jpg?v=1616814799" group-title="Film",Percy
 http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/117.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Les Mitchels contre les Machines" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdkZjNjNDItYzc4MC00NTkxLTk1MWEtY2UyZjY5MjUwNDNkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Film",Les Mitchels contre les Machines
 http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/103.mp4
