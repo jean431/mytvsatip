@@ -171,8 +171,7 @@ http://185.180.15.14:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=null
 http://212.224.98.211:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
 
 #EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://w7.pngwing.com/pngs/461/61/png-transparent-teletoon-television-channel-logo-animation-disney-material-television-text-trademark.png" group-title="Enfant",Teletoon
-http://212.224.98.212:2200/EX/FR_Teletoon_plus_-fr/tracks-v1a1/2021/07/21/13/48/39-06006.ts?token=RED_itNek2xtk5t9t1Jkmu3Obg%3D%3D%2C1626940085.4814651659
-
+http://212.224.98.212:2200/EX/FR_Teletoon_plus_-fr/tracks-v1a1/mono.m3u8?token=RED_itNek2xtk5t9t1Jkmu3Obg%3D%3D%2C1626940085.4814651659
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Enfant",Disney Channel
