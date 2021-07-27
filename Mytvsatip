@@ -99,6 +99,9 @@ http://185.180.15.13:2200/EX/MCM-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK
 #EXTINF:-1 tvg-id="" tvg-name="Novelas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSAT",Novelas TV
 http://212.224.98.208:2200/N-EX/AF_Novelastv_FR-af/tracks-v1a1/mono.m3u8?token=RED_MfxQk2q9nk9seIn1g1eRMg%3D%3D%2C1622940814.8519395813
 
+#EXTINF:-1 tvg-id="" tvg-name="Novela Channel" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/Channel_Novela_%282019-.n.v.%29.png/revision/latest?cb=20190704212745" group-title="CanalSAT",Novela Channel
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="CanalSAT",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
