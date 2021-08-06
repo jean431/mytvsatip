@@ -178,7 +178,7 @@ http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Enfant",Disney Channel
-http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224181.ts?token=ShpcUxVdEgoVAFFVUVADUgwCVQJVBw9WUwdUAgRVBFBUAAFRAAQBUQVAGxESEBMBWVs5WVMUDVBWBQFcVxoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQBQpbBBQWQg9REgoVUwMKUVZDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV10NFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBFYCFUs=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PIWI Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",PIWI Plus
@@ -188,8 +188,8 @@ http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224188.ts?token=Shpc
 http://185.93.1.39/FRCH_GULLI_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://2.bp.blogspot.com/-9j1QnA7KgFU/VLjdgLiEBAI/AAAAAAAAirQ/3E8O53hiX2c/s1600/Canal-J-logo-2015.png" group-title="Enfant",Canal J
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11645.ts
+#EXTINF:-1 tvg-id="" tvg-name="J-One" tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Enfant",J-One
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224184.ts?token=ShpcUxVdEgoVVgBXA1IHUwsABQcDBw5XVlNRXAUGAVMHAAVUUgwFB1FAGxESEBMBWVs5WVMUDVBWBQFcUhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQAgJXAhQWQg9REgoVUwIBWFNDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV10BFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBFMDFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Enfant",Cartoon Network
 http://62.210.246.140:8081/yacinetv/CartoonNetworkfr/l_554254_9396037_1564.ts?nimblesessionid=43448427&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjMzIFBNJmhhc2hfdmFsdWU9NW5GRHZhSmNUOUFNdGs1Ny9rYVFHUT09JnZhbGlkbWludXRlcz0yMA==
