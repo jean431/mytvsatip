@@ -182,7 +182,7 @@ http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PIWI Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Enfant",PIWI Plus
-http://212.224.98.212:2200/EX/PIWI_PLUS-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224188.ts?token=ShpcUxVdEgoVWgABV1cEAltTX1ZTBAQGB1dVAlJUBlMCCAJXAFdWAQRAGxESEBMBWVs5WVMUDVBWBQFcXhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQBQZSCBQWQg9REgoVUwcFUlJDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1MMFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBVcBFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
 http://b.mtfxg.xyz:8081/live/fr-gulli/l_939850_4819741_723.ts?nimblesessionid=563383&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMjoyMDoyMiBQTSZoYXNoX3ZhbHVlPVUyTGlQblVURXlpcS9jSkxycWRvWHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
