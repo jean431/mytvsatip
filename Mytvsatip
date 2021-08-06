@@ -168,7 +168,7 @@ http://212.224.98.213:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_8SFl
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://185.180.15.14:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=null
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224187.ts?token=ShpcUxVdEgoVUVRXVFxWBQkFBVQADgZVVgcIVlcOBAdQXFcDV1AJCABAGxESEBMBWVs5WVMUDVBWBQFcURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQBAtaBBQWQg9REgoVUwEGUFRDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVVlQPFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBF8FFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://212.224.98.211:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
