@@ -194,8 +194,8 @@ http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224184.ts?token=Shpc
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Enfant",Cartoon Network
 http://62.210.246.140:8081/yacinetv/CartoonNetworkfr/l_554254_9396037_1564.ts?nimblesessionid=43448427&wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDExOjU0OjMzIFBNJmhhc2hfdmFsdWU9NW5GRHZhSmNUOUFNdGs1Ny9rYVFHUT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
-http://212.224.98.208:2200/EX/BOING_FR-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Enfant",Nickelodeon
+http://185.93.1.39/FRCH_Nickelodeon_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
