@@ -79,7 +79,7 @@ http://212.224.98.209:2200/EX/FR_M6_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emc
 http://212.224.98.211:2200/EX/FR_WARNER_TV-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSAT",Rtl9
-http://185.180.15.17:2200/EX/RTL9-fr/tracks-v1a1/mono.m3u8?token=RED_2ACx83aVEEpfiHxRaz23og%3D%3D%2C1626944203.5445786532
+http://185.93.1.39/FRCH_RTL9_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="CanalSAT",Syfy
 http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224176.ts?token=ShpcUxVdEgoVV1EDWFNVXA8DUgNUDlZTVQAHUlcBBVJXDQ0KVg0BCFFAGxESEBMBWVs5WVMUDVBWBQFTUBoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQAwNbAxQWQg9REgoVUwMAV1RDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1wIFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIB1YHFUs=
@@ -140,31 +140,29 @@ http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Ciné+ Premier
-http://212.224.98.205:2200/EX/CINE_PLUS_PREMIER-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
+http://185.93.1.39/FRCH_PARIS_PREMIERE_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CanalPlay 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 1
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné POP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="Cinema",Ciné POP
+http://185.93.1.39/FRCH_Cinepop_HD_CA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CanalPlay 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 2
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Addik TV" tvg-logo="https://hollywoodpq.com/wp-content/uploads/2017/08/addik.jpg" group-title="Cinema",Addik TV
+http://185.93.1.39/FRCH_addikTV_HD_CA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CanalPlay 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 3
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Frissons TV" tvg-logo="https://pbs.twimg.com/media/DHY00-GWsAA3RDq.jpg" group-title="Cinema",Frissons TV
+http://185.93.1.39/FRCH_Frissons_TV_HD_CA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CanalPlay 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="Cinema",CanalPlay 5
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31317.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="Cinema",OCS Max
-http://212.224.98.211:2200/EX/OCS_MAX-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
+http://185.93.1.39/FRCH_Ocs_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Geant" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/31/20120925185114%21OCS_geants.png" group-title="Cinema",OCS Geant
-http://185.180.15.15:2200/EX/OCS_GEANTS-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
+http://185.93.1.39/FRCH_Ocs_Geants_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS Choc" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/1280px-OCS_Choc.svg.png" group-title="Cinema",OCS Choc
-http://185.180.15.16:2200/EX/OCS_CHOC-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
+http://185.93.1.39/FRCH_Ocs_Choc_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/1200px-OCS_City.svg.png" group-title="Cinema",OCS City
-http://212.224.98.210:2200/EX/OCS_CITY-fr/tracks-v1a1/mono.m3u8?token=RED_ws54dcu5d9oaEI2GuGD0ZQ%3D%3D%2C1622942579.8936502882
+http://185.93.1.39/FRCH_Ocs_City_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/1280px-Toonami_logo.svg.png" group-title="Enfant",Toonami
 http://212.224.98.213:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_8SFl-y5hXiXEVUJ6Mv_4rA%3D%3D%2C1623710295.1694134631
@@ -209,7 +207,7 @@ http://185.93.1.39/FRCH_Boomerang_HD/index.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-560px-Logo-Animaux-2017.svg.png" group-title="Documentaire",Animaux
-http://esporao.mine.nu:21921/Carllos2/u7yhNqnC1f/7352
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224191.ts?token=ShpcUxVdEgoVAVFRAlZZUw1SA1IDVAdXAlMBUAABAVsAAQBQB1NVUg9AGxESEBMBWVs5WVMUDVBWBQFdVxoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZRAwNbAxQWQg9REgoVUQACUldDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1wAFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBVAFFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="Documentaire",Discovery Channel
 http://185.180.15.16:2200/EX/DISCOVERY_FR-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
@@ -224,7 +222,7 @@ http://212.224.98.211:2200/EX/FR_DISCOVERY_INVESTIGATION_HD-fr/tracks-v1a1/mono.
 http://212.224.98.205:2200/EX/DISCOVERY_FAMILLY-fr/tracks-v1a1/mono.m3u8?token=RED_PQx3QSo9XVbUqAsb8x5MWw%3D%3D%2C1623590370.2937603769
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentaire",NatGeo WILD
-http://185.180.15.14:2200/EX/NATIONAL_GEO_WILD_FR-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224194.ts?token=ShpcUxVdEgoVUVUBBwZXXF0FBFYHDwdTBlJWXFMGBgZSDQ1WBVMCBAdAGxESEBMBWVs5WVMUDVBWBQFdUhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZRAwFTBhQWQg9REgoVUQEGV1RDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV10OFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIAlcFFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Documentaire",NatGeo
 http://212.224.98.207:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
@@ -325,7 +323,7 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Decouvert" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Documentaire",RMC-Decouvert
-http://185.180.15.14:2200/EX/RMC_DECOUVERTE-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
+http://185.93.1.39/FRCH_RMC_DECOUVERTE_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC-Story" tvg-logo="https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/medias-tele/la-chaine-numero-23-sest-rebaptisee-rmc-story-3746462/49954682-1-fre-FR/La-chaine-Numero-23-s-est-rebaptisee-RMC-Story.jpg"group-title="Documentaire",RMC-Story
 http://212.224.98.209:2200/EX/FR_RMC_STORY-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
