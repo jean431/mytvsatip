@@ -13,10 +13,12 @@ http://b.mtfxg.xyz:8081/live/fr-arte/l_941056_207583_21.ts?nimblesessionid=56342
 http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/France_3_logo_2002.svg/592px-France_3_logo_2002.svg.png" group-title="CanalSAT",France 3
-http://185.180.15.15:2200/EX/FR_France_3HD-fr/tracks-v1a1/mono.m3u8?token=RED_9sAvrcrgfxg2mugiuPFR3Q%3D%3D%2C1625258512.0582978273
+http://185.93.1.39/FRCH_FRANCE_3_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1200px-France4-logo.svg.png" group-title="CanalSAT",France 4
-http://185.180.15.16:2200/EX/FR_France_4HD-fr/tracks-v1a1/mono.m3u8?token=RED_9sAvrcrgfxg2mugiuPFR3Q%3D%3D%2C1625258512.0582978273
+http://185.93.1.39/FRCH_FRANCE_4_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="CanalSAT",France 5
 http://185.93.1.39/FRCH_FRANCE_5_HD/tracks-v1a1/mono.m3u8
@@ -25,7 +27,8 @@ http://185.93.1.39/FRCH_FRANCE_5_HD/tracks-v1a1/mono.m3u8
 http://104.251.216.218/fr/c8.php
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSAT",Action
-http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224137.ts?token=ShpcUxVdEgoVUABQA1wDVA0DVVIEUwFQUAdUXVdUCgYADFABX1MBUwZAGxESEBMBWVs5WVMUDVBWBQFXURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQAwdbARQWQg9REgoVUwcGUlBDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1wAFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ10MBVASSg==
+
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_13e_Rue.png/767px-Logo_of_13e_Rue.png" group-title="CanalSAT",13eme Rue
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15232
@@ -38,20 +41,20 @@ http://185.93.1.39/FRCH_SERIES_PLUS/tracks-v1a1/mono.m3u8
  http://51.79.82.231:8080/US_STARZ_CINEMA/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png" group-title="CanalSAT",BET
-http://185.180.15.13:2200/EX/BET-fr/tracks-v1a1/mono.m3u8?token=RED_WbCD5Rh4JSO7jDCvbC88uw%3D%3D%2C1623703127.9761362541
+http://185.93.1.39/FRCH_BET_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="https://p.kindpng.com/picc/s/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSAT",Teva
-http://185.180.15.17:2200/EX/FR_TEVA_HD-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
+http://flusonic-4.platinum-tv.com/Teva/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/1200px-RTS_1_logo_2019.svg.png" group-title="CanalSAT",RTS UN
 http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="https://www.thesportsdb.com/images/media/logo/RTS_Deux_France.png" group-title="CanalSAT",RTS Deux
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11653
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="CanalSAT",AB3
+http://flusonic-15.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/1200px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="CanalSAT",Chérie 25
-http://212.224.98.212:2200/EX/CHERIE_25-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
+http://185.93.1.39/FRCH_CHERIE_25_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_AB1.svg/1280px-Logo_AB1.svg.png" group-title="CanalSAT",AB1
 http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
@@ -60,7 +63,7 @@ http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="CanalSAT",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+http://185.93.1.39/FRCH_TMC_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="CanalSAT",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
@@ -79,7 +82,8 @@ http://212.224.98.211:2200/EX/FR_WARNER_TV-fr/tracks-v1a1/mono.m3u8?token=RED_pz
 http://185.180.15.17:2200/EX/RTL9-fr/tracks-v1a1/mono.m3u8?token=RED_2ACx83aVEEpfiHxRaz23og%3D%3D%2C1626944203.5445786532
 
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Syfy_HD.svg/1280px-Syfy_HD.svg.png" group-title="CanalSAT",Syfy
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224176.ts?token=ShpcUxVdEgoVV1EDWFNVXA8DUgNUDlZTVQAHUlcBBVJXDQ0KVg0BCFFAGxESEBMBWVs5WVMUDVBWBQFTUBoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQAwNbAxQWQg9REgoVUwMAV1RDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1wIFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIB1YHFUs=
+
 
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="CanalSAT",W9
 http://185.93.1.39/FRCH_W9_HD/tracks-v1a1/mono.m3u8
