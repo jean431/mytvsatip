@@ -199,7 +199,7 @@ http://212.224.98.208:2200/EX/BOING_FR-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZG
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
-http://212.224.98.207:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
+http://185.93.1.39/FRCH_Boomerang_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/TiJi_logo_2000.png" group-title="Enfant",Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
