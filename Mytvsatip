@@ -6,7 +6,7 @@ https://s6.tntendirect.com/tf1/live/playlist.m3u8
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSAT",Arte
-http://b.mtfxg.xyz:8081/live/fr-arte/l_941056_207583_21.ts?nimblesessionid=563421&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMjoyMjo1OSBQTSZoYXNoX3ZhbHVlPTN2ZDBlL1F0OGxBd29QOTZON0IvNWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://s6.tntendirect.com/arte/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
 http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
@@ -69,10 +69,10 @@ https://s6.tntendirect.com/nt1/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nrj12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/1200px-NRJ_12_logo_2015.svg.png" group-title="CanalSAT",Nrj12
-http://212.224.98.212:2200/EX/FR_NRJ_12HD-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
+https://s6.tntendirect.com/nrj12/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSAT",M6
-http://212.224.98.209:2200/EX/FR_M6_HD-fr/tracks-v1a1/mono.m3u8?token=RED_eN3emca1W8GXeL7VSY93_Q%3D%3D%2C1622483196.0546341468
+https://s6.tntendirect.com/france5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CanalSAT",Warner TV
 http://212.224.98.211:2200/EX/FR_WARNER_TV-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
@@ -94,7 +94,7 @@ http://212.224.98.204:2200/EX/TV_BREIZH-fr/tracks-v1a1/mono.m3u8?token=RED_m6-Nt
 http://185.93.1.39/FRCH_6TER_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
-http://185.93.1.39/FRCH_CSTAR_HD/tracks-v1a1/mono.m3u8
+https://s6.tntendirect.com/d17/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mcm" tvg-logo="https://w7.pngwing.com/pngs/68/472/png-transparent-mcm-top-television-channel-music-mcm.png" group-title="CanalSAT",Mcm
 http://185.180.15.13:2200/EX/MCM-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
@@ -463,29 +463,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad92
 
 #EXTINF:-1 tvg-id="" tvg-name="Tortues Ninja TV" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png"group-title="Enfant",Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="" tvg-name="Monster" tvg-logo="https://occ-0-1167-300.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABVblXl6O_hS2wyLaHPUurpqhW_LociaYHBPYpke4K97zmxTQYrm7qdBM7ZFk0-wLbuNdhKfkhDMz11Yk0xUt1otm-vKYknfPGlQpvtR2afuPeBNPlmThGS8iuqhsWg.jpg" group-title="Film",Monster
-http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/116.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The 2nd" tvg-logo="https://i.pinimg.com/originals/c1/ae/7d/c1ae7d978a6bc9b9e2b542ed79bda122.png" group-title="Film",The 2nd
-http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/115.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Percy" tvg-logo="https://media-cache.cinematerial.com/p/500x/qccyautu/percy-canadian-movie-poster.jpg?v=1616814799" group-title="Film",Percy
-http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/117.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Les Mitchels contre les Machines" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdkZjNjNDItYzc4MC00NTkxLTk1MWEtY2UyZjY5MjUwNDNkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Film",Les Mitchels contre les Machines
-http://iptvhere.xyz:8080/movie/ftvconnect01/ftvmovies01/103.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman Gothan Kights" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I0YTFjOTUtMWYzNC00ZTgyLTk2NWEtMmE3N2VlYjEwN2JlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Film",Batman Gotham Knights
-http://eu2.vod.rednetcontent.com/9PQJisDzaKyZq8jGdceHcg==,1626719422/VOD1/Movies/FR/BatmanGothamKnight.mp4/index-v1-a1.m3u8
-
-
-
-
-
-
-
-
-
-
-
