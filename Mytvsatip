@@ -164,12 +164,12 @@ http://185.93.1.39/FRCH_Ocs_Choc_HD/tracks-v1a1/mono.m3u8
 http://185.93.1.39/FRCH_Ocs_City_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/1280px-Toonami_logo.svg.png" group-title="Enfant",Toonami
-http://212.224.98.213:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_8SFl-y5hXiXEVUJ6Mv_4rA%3D%3D%2C1623710295.1694134631
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15587
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/1200px-Mangas_%282015%29.svg.png" group-title="Enfant",Mangas
-http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224187.ts?token=ShpcUxVdEgoVUVRXVFxWBQkFBVQADgZVVgcIVlcOBAdQXFcDV1AJCABAGxESEBMBWVs5WVMUDVBWBQFcURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZQBAtaBBQWQg9REgoVUwEGUFRDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVVlQPFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBF8FFUs=
+http://138.199.36.107:25461/DM_Snappyarr/adfsgbhgsvdfv/224187?token=ShpcUxVdEgoVUlQDAlwAVwECUQdTVAADAglUAgQAAQdVXQADVFdSUlJAGxESEBMBWVs5WVMUDVBWBQFcURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFJWAApbARQWQg9REgoVUQYHVFRDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV10BFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBF8FFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Gameone" tvg-logo="https://tgs-lyongameshow.fr/uploads/posts/1550582785GameOne.jpg" group-title="Enfant",Gameone
 http://212.224.98.211:2200/EX/GAME_ONE-fr/tracks-v1a1/mono.m3u8?token=null
