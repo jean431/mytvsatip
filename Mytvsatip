@@ -6,7 +6,7 @@ http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15582.m3u8
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSAT",Arte
-https://s6.tntendirect.com/arte/live/playlist.m3u8
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15265.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
 http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
@@ -300,10 +300,10 @@ http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15274.m3u8
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15276.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC1" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="SPORT",RMC1
-http://51.103.23.135:55121/live/lava123/lava123/32250
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15540.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="SPORT",RMC2
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31263.ts
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15541.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="SPORT",RMC3
 http://51.103.23.135:55121/live/lava123/lava123/32246
