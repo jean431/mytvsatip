@@ -121,7 +121,7 @@ http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://185.93.1.39/FRCH_Cine_Plus_Club_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Famiz" tvg-logo="https://www.bessis.fr/medias/jpg/bessis_creation_de_nom_famiz_s.jpg" group-title="CanalSAT",Ciné+ Famiz
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15367.m3u8
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_alUTBZEIzVHbQBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Family" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-family.png" group-title="CanalSAT",Ciné+ Family
 http://185.180.15.14:2200/EX/CANAL_PLUS_FAMILY-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
@@ -136,7 +136,7 @@ http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Frisson" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CanalSAT",Ciné+ Frisson
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15368.m3u8
+http://a2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
 #EXTINF:-1 tvg-id="" tvg-name="Ciné+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Ciné+ Premier
 http://185.93.1.39/FRCH_PARIS_PREMIERE_HD/tracks-v1a1/mono.m3u8
@@ -209,10 +209,10 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224191.ts?token=ShpcUxVdEgoVAVFRAlZZUw1SA1IDVAdXAlMBUAABAVsAAQBQB1NVUg9AGxESEBMBWVs5WVMUDVBWBQFdVxoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZRAwNbAxQWQg9REgoVUQACUldDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV1wAFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIBVAFFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="Documentaire",Discovery Channel
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15381.m3u8
+http://185.180.15.16:2200/EX/DISCOVERY_FR-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="Documentaire",Discovery Science
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15385.m3u8
+http://212.224.98.207:2200/EX/DISCOVERY_SCIENCE_FR-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation" tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="Documentaire",Discovery Investigation
 http://212.224.98.211:2200/EX/FR_DISCOVERY_INVESTIGATION_HD-fr/tracks-v1a1/mono.m3u8?token=RED_lOU18fH2G42iUpaTO-MqyQ%3D%3D%2C1623587837.0548335425
@@ -221,19 +221,19 @@ http://212.224.98.211:2200/EX/FR_DISCOVERY_INVESTIGATION_HD-fr/tracks-v1a1/mono.
 http://212.224.98.205:2200/EX/DISCOVERY_FAMILLY-fr/tracks-v1a1/mono.m3u8?token=RED_PQx3QSo9XVbUqAsb8x5MWw%3D%3D%2C1623590370.2937603769
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentaire",NatGeo WILD
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15494.m3u8
+http://138.199.36.107:25461/live/DM_Snappyarr/adfsgbhgsvdfv/224194.ts?token=ShpcUxVdEgoVUVUBBwZXXF0FBFYHDwdTBlJWXFMGBgZSDQ1WBVMCBAdAGxESEBMBWVs5WVMUDVBWBQFdUhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNU1IDCFZRAwFTBhQWQg9REgoVUQEGV1RDSBpTHkRSRFkDCG5UARBfUQYTAlpHClkcElgMaFcECQAKXBRcEgcUG0ANQkBGXFhHD10UFlAPQUJRQwcVCUNVV10OFEoSVFlCDBBDSUZcFH82ExQWVx5BVV5EC1hdQ15DEEsUShJeRWgQAUJEFgNXXwZDGg4QVxccEloDT2wCCw8KXVUSWVhYREBeEwVUVgYQTxNVW1wPQV9CaBJeV0NeQ1UIAlcFFUs=
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="Documentaire",NatGeo
 http://212.224.98.207:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
 
 #EXTINF:-1 tvg-id="" tvg-name="Planete +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Documentaire",Planete +
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15532.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11654.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Planete + CI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/PLAN%C3%88TE%2B_ci.png" group-title="Documentaire",Planete + CI
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15531.m3u8
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11684.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Histoire" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Histoire_TV_logo_2019.svg/1280px-Histoire_TV_logo_2019.svg.png" group-title="Documentaire",Histoire
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Season" tvg-logo="https://pbs.twimg.com/profile_images/803867536458653696/KW6w9fNr.jpg" group-title="Documentaire",Season
+http://185.180.15.17:2200/EX/SEASON-fr/tracks-v1a1/mono.m3u8?token=RED_tnJSVKHRzBO9F70BRXy9hQ%3D%3D%2C1623953879.4010442737
 
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="Documentaire",Ushuaïa
 http://212.224.98.204:2200/EX/USHUAIA_TV-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
@@ -281,7 +281,7 @@ https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Automoto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg" group-title="SPORT",Automoto
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15268.m3u8
+http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport en France" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="SPORT",Sport en France
