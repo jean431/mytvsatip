@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
-http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15582.m3u8
+http://185.180.15.13:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_tI9mN2e34ORnArrJaCqnCQ%3D%3D%2C1630057103.5305732876
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
@@ -9,7 +9,7 @@ https://s6.tntendirect.com/hd1/live/playlist.m3u8
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/15265.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
-http://185.93.1.39/FRCH_FRANCE_2_HD/tracks-v1a1/mono.m3u8
+http://212.224.98.212:2200/EX/FR_France_2HD-fr/tracks-v1a1/mono.m3u8?token=RED_5CjSc4I6UhVrJbtJ-2itYQ%3D%3D%2C1630057181.5305732876
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/France_3_logo_2002.svg/592px-France_3_logo_2002.svg.png" group-title="CanalSAT",France 3
 http://185.93.1.39/FRCH_FRANCE_3_HD/tracks-v1a1/mono.m3u8
