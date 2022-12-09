@@ -36,11 +36,11 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3221.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",WarnerTV
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12658
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49198.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
-http://iptv.ndasat.com:88/221960810660189/221960810660189/581
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2499.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
@@ -50,9 +50,7 @@ https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMCCINEMA
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96686.ts
-
+P
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TV Breizh
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12657
 
@@ -61,21 +59,21 @@ http://iptv.ndasat.com:88/221960810660189/221960810660189/286
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12662.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3220.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13eme Rue
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12768.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3346.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12824.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/375.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12656
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/1456.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12812
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4500.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12807.ts
