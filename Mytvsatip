@@ -94,39 +94,39 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12684.ts
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinema
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12679.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/78.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Ciné+ Classic
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12667
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48671.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ KIDS
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12681
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49209.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Premier
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12672
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3327.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Emotion
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12670
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/84.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Frisson
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12671.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3328.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Famiz
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12669.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3330.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Club
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12668.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2292.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Polar+
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12663
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4548.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Crime District
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13033
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/51046.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Serie Club
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12661
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3222.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12655
@@ -150,7 +150,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13037
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Channel
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13051.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/109.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Investigation
@@ -163,7 +163,7 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Action
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12677.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/126.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",E! Entertainment
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12651.ts
